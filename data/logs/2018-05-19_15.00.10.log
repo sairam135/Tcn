@@ -1,0 +1,1301 @@
+2022-11-17 14:08:15,671 INFO 82 channels found for processing.
+2022-11-17 14:08:15,674 INFO Stream # 1: P-1
+2022-11-17 14:08:18,000 INFO normalized prediction error: 0.09
+2022-11-17 14:08:19,280 INFO 4 anomalies found
+2022-11-17 14:08:19,285 INFO anomaly sequences start/end indices: [(2130, 2349), (3190, 3329), (3540, 3679), (4520, 4589)]
+2022-11-17 14:08:19,285 INFO number of test values: 8245
+2022-11-17 14:08:19,285 INFO anomaly scores: [{'start_idx': 1880, 'end_idx': 2099, 'score': 2.0284713472409055}, {'start_idx': 2940, 'end_idx': 3009, 'score': 2.1372898817915145}, {'start_idx': 3010, 'end_idx': 3079, 'score': 2.163556613516779}, {'start_idx': 3290, 'end_idx': 3359, 'score': 2.1331476542631735}, {'start_idx': 3360, 'end_idx': 3429, 'score': 2.2936228235904377}, {'start_idx': 4270, 'end_idx': 4339, 'score': 0.9175092986586291}]
+
+2022-11-17 14:08:19,654 INFO Stream # 2: S-1
+2022-11-17 14:08:21,302 INFO normalized prediction error: 0.19
+2022-11-17 14:08:22,375 INFO 1 anomalies found
+2022-11-17 14:08:22,375 INFO anomaly sequences start/end indices: [(5290, 5656)]
+2022-11-17 14:08:22,375 INFO number of test values: 7071
+2022-11-17 14:08:22,375 INFO anomaly scores: [{'start_idx': 5040, 'end_idx': 5109, 'score': 2.269975917220566}, {'start_idx': 5110, 'end_idx': 5179, 'score': 7.345765363462041}, {'start_idx': 5180, 'end_idx': 5249, 'score': 8.138666866285874}, {'start_idx': 5250, 'end_idx': 5319, 'score': 7.9385381199071166}, {'start_idx': 5320, 'end_idx': 5389, 'score': 7.038188502422944}, {'start_idx': 5390, 'end_idx': 5406, 'score': 6.185723200952486}]
+
+2022-11-17 14:08:22,387 INFO Stream # 3: E-1
+2022-11-17 14:08:24,002 INFO normalized prediction error: 0.07
+2022-11-17 14:08:24,928 INFO 3 anomalies found
+2022-11-17 14:08:24,930 INFO anomaly sequences start/end indices: [(1751, 2001), (5010, 5149), (5570, 5965)]
+2022-11-17 14:08:24,930 INFO number of test values: 8256
+2022-11-17 14:08:24,930 INFO anomaly scores: [{'start_idx': 1501, 'end_idx': 1751, 'score': 3.370114482430331}, {'start_idx': 4760, 'end_idx': 4829, 'score': 8.02425671004024}, {'start_idx': 4830, 'end_idx': 4899, 'score': 6.015687399374383}, {'start_idx': 5320, 'end_idx': 5389, 'score': 7.506587332861675}, {'start_idx': 5390, 'end_idx': 5459, 'score': 9.328760311602148}, {'start_idx': 5460, 'end_idx': 5529, 'score': 9.20637885751533}, {'start_idx': 5530, 'end_idx': 5599, 'score': 8.94118299461437}, {'start_idx': 5600, 'end_idx': 5669, 'score': 8.581765932295577}, {'start_idx': 5670, 'end_idx': 5715, 'score': 7.0949744870615365}]
+
+2022-11-17 14:08:24,938 INFO Stream # 4: E-2
+2022-11-17 14:08:26,527 INFO normalized prediction error: 0.07
+2022-11-17 14:08:27,155 INFO 1 anomalies found
+2022-11-17 14:08:27,155 INFO anomaly sequences start/end indices: [(5570, 5919)]
+2022-11-17 14:08:27,156 INFO number of test values: 8272
+2022-11-17 14:08:27,156 INFO anomaly scores: [{'start_idx': 5320, 'end_idx': 5389, 'score': 3.0941837450097585}, {'start_idx': 5390, 'end_idx': 5459, 'score': 4.939148769881637}, {'start_idx': 5460, 'end_idx': 5529, 'score': 6.560282387098662}, {'start_idx': 5530, 'end_idx': 5599, 'score': 6.8247197331985445}, {'start_idx': 5600, 'end_idx': 5669, 'score': 6.402748895152173}]
+
+2022-11-17 14:08:27,164 INFO Stream # 5: E-3
+2022-11-17 14:08:28,704 INFO normalized prediction error: 0.02
+2022-11-17 14:08:29,442 INFO 1 anomalies found
+2022-11-17 14:08:29,442 INFO anomaly sequences start/end indices: [(5570, 5779)]
+2022-11-17 14:08:29,443 INFO number of test values: 8047
+2022-11-17 14:08:29,443 INFO anomaly scores: [{'start_idx': 5320, 'end_idx': 5389, 'score': 4.101989327931225}, {'start_idx': 5390, 'end_idx': 5459, 'score': 4.480692050219633}, {'start_idx': 5460, 'end_idx': 5529, 'score': 3.323905578562692}]
+
+2022-11-17 14:08:29,451 INFO Stream # 6: E-4
+2022-11-17 14:08:31,059 INFO normalized prediction error: 0.06
+2022-11-17 14:08:31,623 INFO 1 anomalies found
+2022-11-17 14:08:31,623 INFO anomaly sequences start/end indices: [(5570, 5975)]
+2022-11-17 14:08:31,623 INFO number of test values: 8094
+2022-11-17 14:08:31,624 INFO anomaly scores: [{'start_idx': 5320, 'end_idx': 5389, 'score': 2.032620725617332}, {'start_idx': 5390, 'end_idx': 5459, 'score': 0.8852654216762841}, {'start_idx': 5460, 'end_idx': 5529, 'score': 1.0486795194180234}, {'start_idx': 5530, 'end_idx': 5599, 'score': 1.0559542648904379}, {'start_idx': 5600, 'end_idx': 5669, 'score': 1.0728754030498278}, {'start_idx': 5670, 'end_idx': 5725, 'score': 0.869049868988597}]
+
+2022-11-17 14:08:31,632 INFO Stream # 7: E-5
+2022-11-17 14:08:33,238 INFO normalized prediction error: 0.08
+2022-11-17 14:08:33,753 INFO 1 anomalies found
+2022-11-17 14:08:33,754 INFO anomaly sequences start/end indices: [(5570, 5709)]
+2022-11-17 14:08:33,754 INFO number of test values: 8034
+2022-11-17 14:08:33,754 INFO anomaly scores: [{'start_idx': 5320, 'end_idx': 5389, 'score': 4.205687890657691}, {'start_idx': 5390, 'end_idx': 5459, 'score': 4.089169830194193}]
+
+2022-11-17 14:08:33,762 INFO Stream # 8: E-6
+2022-11-17 14:08:35,320 INFO normalized prediction error: 0.01
+2022-11-17 14:08:36,123 INFO 1 anomalies found
+2022-11-17 14:08:36,123 INFO anomaly sequences start/end indices: [(5570, 5779)]
+2022-11-17 14:08:36,123 INFO number of test values: 8040
+2022-11-17 14:08:36,124 INFO anomaly scores: [{'start_idx': 5320, 'end_idx': 5389, 'score': 15.602901137724285}, {'start_idx': 5390, 'end_idx': 5459, 'score': 12.968206099591745}, {'start_idx': 5460, 'end_idx': 5529, 'score': 9.17649006522389}]
+
+2022-11-17 14:08:36,132 INFO Stream # 9: E-7
+2022-11-17 14:08:37,862 INFO normalized prediction error: 0.03
+2022-11-17 14:08:38,674 INFO 1 anomalies found
+2022-11-17 14:08:38,674 INFO anomaly sequences start/end indices: [(5430, 5766)]
+2022-11-17 14:08:38,675 INFO number of test values: 8050
+2022-11-17 14:08:38,675 INFO anomaly scores: [{'start_idx': 5180, 'end_idx': 5249, 'score': 9.1230057802744}, {'start_idx': 5250, 'end_idx': 5319, 'score': 8.117996497569386}, {'start_idx': 5320, 'end_idx': 5389, 'score': 8.865600126882121}, {'start_idx': 5390, 'end_idx': 5459, 'score': 8.514335944037914}, {'start_idx': 5460, 'end_idx': 5516, 'score': 6.653247799486637}]
+
+2022-11-17 14:08:38,684 INFO Stream # 10: E-8
+2022-11-17 14:08:40,063 INFO normalized prediction error: 0.07
+2022-11-17 14:08:40,504 INFO 1 anomalies found
+2022-11-17 14:08:40,505 INFO anomaly sequences start/end indices: [(5710, 5919)]
+2022-11-17 14:08:40,505 INFO number of test values: 8272
+2022-11-17 14:08:40,506 INFO anomaly scores: [{'start_idx': 5460, 'end_idx': 5529, 'score': 2.4587428955139123}, {'start_idx': 5530, 'end_idx': 5599, 'score': 2.8969791401437726}, {'start_idx': 5600, 'end_idx': 5669, 'score': 2.6943025203474305}]
+
+2022-11-17 14:08:40,516 INFO Stream # 11: E-9
+2022-11-17 14:08:41,923 INFO normalized prediction error: 0.05
+2022-11-17 14:08:42,363 INFO 1 anomalies found
+2022-11-17 14:08:42,364 INFO anomaly sequences start/end indices: [(5710, 5919)]
+2022-11-17 14:08:42,364 INFO number of test values: 8042
+2022-11-17 14:08:42,364 INFO anomaly scores: [{'start_idx': 5460, 'end_idx': 5529, 'score': 0.9955577576882938}, {'start_idx': 5530, 'end_idx': 5599, 'score': 1.000330877033821}, {'start_idx': 5600, 'end_idx': 5669, 'score': 1.060322064489463}]
+
+2022-11-17 14:08:42,372 INFO Stream # 12: E-10
+2022-11-17 14:08:43,990 INFO normalized prediction error: 0.07
+2022-11-17 14:08:44,854 INFO 3 anomalies found
+2022-11-17 14:08:44,855 INFO anomaly sequences start/end indices: [(1748, 1999), (5010, 5149), (5570, 5963)]
+2022-11-17 14:08:44,855 INFO number of test values: 8245
+2022-11-17 14:08:44,855 INFO anomaly scores: [{'start_idx': 1498, 'end_idx': 1749, 'score': 4.267897763156495}, {'start_idx': 4760, 'end_idx': 4829, 'score': 8.728884354887802}, {'start_idx': 4830, 'end_idx': 4899, 'score': 6.558826544922453}, {'start_idx': 5320, 'end_idx': 5389, 'score': 9.232652663514374}, {'start_idx': 5390, 'end_idx': 5459, 'score': 11.924391407555637}, {'start_idx': 5460, 'end_idx': 5529, 'score': 11.073004567341183}, {'start_idx': 5530, 'end_idx': 5599, 'score': 10.273295697139758}, {'start_idx': 5600, 'end_idx': 5669, 'score': 9.710254020428401}, {'start_idx': 5670, 'end_idx': 5713, 'score': 7.9720759553084175}]
+
+2022-11-17 14:08:44,864 INFO Stream # 13: E-11
+2022-11-17 14:08:46,381 INFO normalized prediction error: 0.08
+2022-11-17 14:08:47,253 INFO 3 anomalies found
+2022-11-17 14:08:47,254 INFO anomaly sequences start/end indices: [(1718, 2000), (5010, 5149), (5570, 5964)]
+2022-11-17 14:08:47,254 INFO number of test values: 8254
+2022-11-17 14:08:47,254 INFO anomaly scores: [{'start_idx': 1468, 'end_idx': 1750, 'score': 3.8528335048668203}, {'start_idx': 4760, 'end_idx': 4829, 'score': 6.862131298941512}, {'start_idx': 4830, 'end_idx': 4899, 'score': 5.276515643986218}, {'start_idx': 5320, 'end_idx': 5389, 'score': 8.138516582341207}, {'start_idx': 5390, 'end_idx': 5459, 'score': 11.610906656377898}, {'start_idx': 5460, 'end_idx': 5529, 'score': 10.92625980221012}, {'start_idx': 5530, 'end_idx': 5599, 'score': 10.172153544248562}, {'start_idx': 5600, 'end_idx': 5669, 'score': 9.505462626370019}, {'start_idx': 5670, 'end_idx': 5714, 'score': 7.905534490251679}]
+
+2022-11-17 14:08:47,262 INFO Stream # 14: E-12
+2022-11-17 14:08:48,800 INFO normalized prediction error: 0.06
+2022-11-17 14:08:49,461 INFO 5 anomalies found
+2022-11-17 14:08:49,462 INFO anomaly sequences start/end indices: [(1775, 2008), (5010, 5149), (5570, 5709), (5850, 5919), (5990, 6594)]
+2022-11-17 14:08:49,462 INFO number of test values: 8252
+2022-11-17 14:08:49,462 INFO anomaly scores: [{'start_idx': 1525, 'end_idx': 1758, 'score': 3.8077568434747}, {'start_idx': 4760, 'end_idx': 4829, 'score': 6.653533610565083}, {'start_idx': 4830, 'end_idx': 4899, 'score': 5.219644571361373}, {'start_idx': 5320, 'end_idx': 5389, 'score': 6.6914209834886424}, {'start_idx': 5390, 'end_idx': 5459, 'score': 6.015176596756865}, {'start_idx': 5600, 'end_idx': 5669, 'score': 5.847826225188652}, {'start_idx': 5740, 'end_idx': 5809, 'score': 5.918312746484314}, {'start_idx': 5810, 'end_idx': 5879, 'score': 6.26202893966356}, {'start_idx': 5880, 'end_idx': 5949, 'score': 6.725161093642827}, {'start_idx': 5950, 'end_idx': 6019, 'score': 6.254839565596303}, {'start_idx': 6020, 'end_idx': 6089, 'score': 6.381080504773971}, {'start_idx': 6090, 'end_idx': 6159, 'score': 6.576853895514065}, {'start_idx': 6160, 'end_idx': 6229, 'score': 6.717095405932797}, {'start_idx': 6230, 'end_idx': 6299, 'score': 6.415398742007353}, {'start_idx': 6300, 'end_idx': 6344, 'score': 5.747757675455116}]
+
+2022-11-17 14:08:49,471 INFO Stream # 15: E-13
+2022-11-17 14:08:51,049 INFO normalized prediction error: 0.06
+2022-11-17 14:08:51,702 INFO 2 anomalies found
+2022-11-17 14:08:51,703 INFO anomaly sequences start/end indices: [(5570, 5709), (6480, 6549)]
+2022-11-17 14:08:51,703 INFO number of test values: 8380
+2022-11-17 14:08:51,703 INFO anomaly scores: [{'start_idx': 5320, 'end_idx': 5389, 'score': 3.410681245910968}, {'start_idx': 5390, 'end_idx': 5459, 'score': 3.4675150232537755}, {'start_idx': 6230, 'end_idx': 6299, 'score': 3.75929917794407}]
+
+2022-11-17 14:08:51,712 INFO Stream # 16: A-1
+2022-11-17 14:08:53,388 INFO normalized prediction error: 0.01
+2022-11-17 14:08:54,158 INFO 1 anomalies found
+2022-11-17 14:08:54,158 INFO anomaly sequences start/end indices: [(4730, 4869)]
+2022-11-17 14:08:54,159 INFO number of test values: 8380
+2022-11-17 14:08:54,159 INFO anomaly scores: [{'start_idx': 4480, 'end_idx': 4549, 'score': 3.2014438937526872}, {'start_idx': 4550, 'end_idx': 4619, 'score': 2.6588575318785037}]
+
+2022-11-17 14:08:54,167 INFO Stream # 17: D-1
+2022-11-17 14:08:55,687 INFO normalized prediction error: 0.07
+2022-11-17 14:08:56,322 INFO 2 anomalies found
+2022-11-17 14:08:56,322 INFO anomaly sequences start/end indices: [(5220, 5359), (5570, 5919)]
+2022-11-17 14:08:56,323 INFO number of test values: 8249
+2022-11-17 14:08:56,323 INFO anomaly scores: [{'start_idx': 4970, 'end_idx': 5039, 'score': 2.1255602582585738}, {'start_idx': 5040, 'end_idx': 5109, 'score': 2.278115392864505}, {'start_idx': 5320, 'end_idx': 5389, 'score': 6.621386018137102}, {'start_idx': 5390, 'end_idx': 5459, 'score': 7.838672497351893}, {'start_idx': 5460, 'end_idx': 5529, 'score': 8.132053490068834}, {'start_idx': 5530, 'end_idx': 5599, 'score': 8.198180903761623}, {'start_idx': 5600, 'end_idx': 5669, 'score': 7.8904391287223605}]
+
+2022-11-17 14:08:56,331 INFO Stream # 18: P-2
+2022-11-17 14:08:57,928 INFO normalized prediction error: 0.05
+2022-11-17 14:08:58,396 INFO 1 anomalies found
+2022-11-17 14:08:58,397 INFO anomaly sequences start/end indices: [(5290, 5709)]
+2022-11-17 14:08:58,397 INFO number of test values: 7949
+2022-11-17 14:08:58,397 INFO anomaly scores: [{'start_idx': 5040, 'end_idx': 5109, 'score': 11.69141041926446}, {'start_idx': 5110, 'end_idx': 5179, 'score': 13.217212418189407}, {'start_idx': 5180, 'end_idx': 5249, 'score': 12.122119153034495}, {'start_idx': 5250, 'end_idx': 5319, 'score': 10.949777920622179}, {'start_idx': 5320, 'end_idx': 5389, 'score': 10.269804589353653}, {'start_idx': 5390, 'end_idx': 5459, 'score': 9.744755295145293}]
+
+2022-11-17 14:08:58,405 INFO Stream # 19: P-3
+2022-11-17 14:08:59,995 INFO normalized prediction error: 0.04
+2022-11-17 14:09:00,582 INFO 2 anomalies found
+2022-11-17 14:09:00,583 INFO anomaly sequences start/end indices: [(5360, 5673), (5780, 6059)]
+2022-11-17 14:09:00,583 INFO number of test values: 8233
+2022-11-17 14:09:00,583 INFO anomaly scores: [{'start_idx': 5110, 'end_idx': 5179, 'score': 3.8394361211283505}, {'start_idx': 5180, 'end_idx': 5249, 'score': 7.488656825745577}, {'start_idx': 5250, 'end_idx': 5319, 'score': 7.791678120222637}, {'start_idx': 5320, 'end_idx': 5389, 'score': 6.708566106285172}, {'start_idx': 5390, 'end_idx': 5423, 'score': 5.710038541969619}, {'start_idx': 5530, 'end_idx': 5599, 'score': 8.11655334392164}, {'start_idx': 5600, 'end_idx': 5669, 'score': 8.448433802365553}, {'start_idx': 5670, 'end_idx': 5739, 'score': 8.19806694816175}, {'start_idx': 5740, 'end_idx': 5809, 'score': 7.587248764278153}]
+
+2022-11-17 14:09:00,592 INFO Stream # 20: D-2
+2022-11-17 14:09:02,222 INFO normalized prediction error: 0.02
+2022-11-17 14:09:02,892 INFO 2 anomalies found
+2022-11-17 14:09:02,893 INFO anomaly sequences start/end indices: [(4660, 4869), (8440, 8509)]
+2022-11-17 14:09:02,893 INFO number of test values: 8335
+2022-11-17 14:09:02,893 INFO anomaly scores: [{'start_idx': 4410, 'end_idx': 4479, 'score': 15.017099027602761}, {'start_idx': 4480, 'end_idx': 4549, 'score': 11.873544129577661}, {'start_idx': 4550, 'end_idx': 4619, 'score': 9.438378294893665}, {'start_idx': 8190, 'end_idx': 8259, 'score': 5.261292291141255}]
+
+2022-11-17 14:09:02,902 INFO Stream # 21: D-3
+2022-11-17 14:09:04,469 INFO normalized prediction error: 0.06
+2022-11-17 14:09:04,932 INFO 1 anomalies found
+2022-11-17 14:09:04,933 INFO anomaly sequences start/end indices: [(5360, 5919)]
+2022-11-17 14:09:04,933 INFO number of test values: 8380
+2022-11-17 14:09:04,933 INFO anomaly scores: [{'start_idx': 5110, 'end_idx': 5179, 'score': 13.817232467799117}, {'start_idx': 5180, 'end_idx': 5249, 'score': 12.424254526097378}, {'start_idx': 5250, 'end_idx': 5319, 'score': 11.631823210336975}, {'start_idx': 5320, 'end_idx': 5389, 'score': 10.807654936966166}, {'start_idx': 5390, 'end_idx': 5459, 'score': 10.299494607370212}, {'start_idx': 5460, 'end_idx': 5529, 'score': 9.876263132573254}, {'start_idx': 5530, 'end_idx': 5599, 'score': 9.479463549620704}, {'start_idx': 5600, 'end_idx': 5669, 'score': 9.115263009126862}]
+
+2022-11-17 14:09:04,974 INFO Stream # 22: D-4
+2022-11-17 14:09:06,453 INFO normalized prediction error: 0.05
+2022-11-17 14:09:06,933 INFO 1 anomalies found
+2022-11-17 14:09:06,933 INFO anomaly sequences start/end indices: [(5290, 5779)]
+2022-11-17 14:09:06,933 INFO number of test values: 8213
+2022-11-17 14:09:06,934 INFO anomaly scores: [{'start_idx': 5040, 'end_idx': 5109, 'score': 9.228934696644492}, {'start_idx': 5110, 'end_idx': 5179, 'score': 9.657096464306079}, {'start_idx': 5180, 'end_idx': 5249, 'score': 9.53464561632221}, {'start_idx': 5250, 'end_idx': 5319, 'score': 9.34838556442377}, {'start_idx': 5320, 'end_idx': 5389, 'score': 9.026006021436952}, {'start_idx': 5390, 'end_idx': 5459, 'score': 8.879901531304188}, {'start_idx': 5460, 'end_idx': 5529, 'score': 8.572490455584575}]
+
+2022-11-17 14:09:06,943 INFO Stream # 23: A-2
+2022-11-17 14:09:08,434 INFO normalized prediction error: 0.07
+2022-11-17 14:09:09,147 INFO 3 anomalies found
+2022-11-17 14:09:09,147 INFO anomaly sequences start/end indices: [(1043, 1345), (1463, 1716), (4450, 4659)]
+2022-11-17 14:09:09,147 INFO number of test values: 7654
+2022-11-17 14:09:09,147 INFO anomaly scores: [{'start_idx': 793, 'end_idx': 1095, 'score': 1.8545669243939444}, {'start_idx': 1213, 'end_idx': 1466, 'score': 1.901390805835339}, {'start_idx': 4200, 'end_idx': 4269, 'score': 2.377316696619421}, {'start_idx': 4270, 'end_idx': 4339, 'score': 3.832082350265727}, {'start_idx': 4340, 'end_idx': 4409, 'score': 3.8800572288975474}]
+
+2022-11-17 14:09:09,156 INFO Stream # 24: A-3
+2022-11-17 14:09:10,789 INFO normalized prediction error: 0.05
+2022-11-17 14:09:11,495 INFO 1 anomalies found
+2022-11-17 14:09:11,495 INFO anomaly sequences start/end indices: [(4590, 4869)]
+2022-11-17 14:09:11,495 INFO number of test values: 7945
+2022-11-17 14:09:11,496 INFO anomaly scores: [{'start_idx': 4340, 'end_idx': 4409, 'score': 3.1399710031190193}, {'start_idx': 4410, 'end_idx': 4479, 'score': 3.08955828735186}, {'start_idx': 4480, 'end_idx': 4549, 'score': 3.4511957887796356}, {'start_idx': 4550, 'end_idx': 4619, 'score': 3.2026035357024933}]
+
+2022-11-17 14:09:11,504 INFO Stream # 25: A-4
+2022-11-17 14:09:12,967 INFO normalized prediction error: 0.06
+2022-11-17 14:09:13,734 INFO 1 anomalies found
+2022-11-17 14:09:13,734 INFO anomaly sequences start/end indices: [(4520, 4796)]
+2022-11-17 14:09:13,734 INFO number of test values: 7820
+2022-11-17 14:09:13,735 INFO anomaly scores: [{'start_idx': 4270, 'end_idx': 4339, 'score': 1.888940819344895}, {'start_idx': 4340, 'end_idx': 4409, 'score': 2.834498567438778}, {'start_idx': 4410, 'end_idx': 4479, 'score': 2.940729276677513}, {'start_idx': 4480, 'end_idx': 4546, 'score': 2.4210430364859152}]
+
+2022-11-17 14:09:13,743 INFO Stream # 26: G-1
+2022-11-17 14:09:15,295 INFO normalized prediction error: 0.07
+2022-11-17 14:09:15,888 INFO 1 anomalies found
+2022-11-17 14:09:15,888 INFO anomaly sequences start/end indices: [(5990, 6129)]
+2022-11-17 14:09:15,888 INFO number of test values: 8209
+2022-11-17 14:09:15,889 INFO anomaly scores: [{'start_idx': 5740, 'end_idx': 5809, 'score': 3.03945399604053}, {'start_idx': 5810, 'end_idx': 5879, 'score': 3.1717221688452137}]
+
+2022-11-17 14:09:15,897 INFO Stream # 27: G-2
+2022-11-17 14:09:17,415 INFO normalized prediction error: 0.01
+2022-11-17 14:09:18,014 INFO 1 anomalies found
+2022-11-17 14:09:18,014 INFO anomaly sequences start/end indices: [(4030, 4169)]
+2022-11-17 14:09:18,014 INFO number of test values: 7101
+2022-11-17 14:09:18,015 INFO anomaly scores: [{'start_idx': 3780, 'end_idx': 3849, 'score': 5.363814176092378}, {'start_idx': 3850, 'end_idx': 3919, 'score': 4.040501718911943}]
+
+2022-11-17 14:09:18,024 INFO Stream # 28: D-5
+2022-11-17 14:09:19,442 INFO normalized prediction error: 0.12
+2022-11-17 14:09:20,028 INFO 1 anomalies found
+2022-11-17 14:09:20,029 INFO anomaly sequences start/end indices: [(4800, 4939)]
+2022-11-17 14:09:20,029 INFO number of test values: 7368
+2022-11-17 14:09:20,029 INFO anomaly scores: [{'start_idx': 4550, 'end_idx': 4619, 'score': 2.2497392055739462}, {'start_idx': 4620, 'end_idx': 4689, 'score': 2.0055472914946675}]
+
+2022-11-17 14:09:20,038 INFO Stream # 29: D-6
+2022-11-17 14:09:21,460 INFO normalized prediction error: 0.05
+2022-11-17 14:09:22,378 INFO 1 anomalies found
+2022-11-17 14:09:22,379 INFO anomaly sequences start/end indices: [(4870, 5009)]
+2022-11-17 14:09:22,379 INFO number of test values: 7624
+2022-11-17 14:09:22,379 INFO anomaly scores: [{'start_idx': 4620, 'end_idx': 4689, 'score': 3.286905994310184}, {'start_idx': 4690, 'end_idx': 4759, 'score': 3.32341876011755}]
+
+2022-11-17 14:09:22,389 INFO Stream # 30: D-7
+2022-11-17 14:09:23,737 INFO normalized prediction error: 0.05
+2022-11-17 14:09:24,804 INFO 3 anomalies found
+2022-11-17 14:09:24,804 INFO anomaly sequences start/end indices: [(5010, 5359), (5430, 5639), (5710, 5849)]
+2022-11-17 14:09:24,805 INFO number of test values: 7382
+2022-11-17 14:09:24,805 INFO anomaly scores: [{'start_idx': 4760, 'end_idx': 4829, 'score': 8.517138031775632}, {'start_idx': 4830, 'end_idx': 4899, 'score': 9.706559242972263}, {'start_idx': 4900, 'end_idx': 4969, 'score': 9.504133910153246}, {'start_idx': 4970, 'end_idx': 5039, 'score': 9.164357629274399}, {'start_idx': 5040, 'end_idx': 5109, 'score': 8.765980529161956}, {'start_idx': 5180, 'end_idx': 5249, 'score': 8.925495418518826}, {'start_idx': 5250, 'end_idx': 5319, 'score': 8.876024212717251}, {'start_idx': 5320, 'end_idx': 5389, 'score': 8.48191721164216}, {'start_idx': 5460, 'end_idx': 5529, 'score': 8.239466579566711}, {'start_idx': 5530, 'end_idx': 5599, 'score': 8.071540224138054}]
+
+2022-11-17 14:09:24,817 INFO Stream # 31: F-1
+2022-11-17 14:09:26,363 INFO normalized prediction error: 0.10
+2022-11-17 14:09:27,419 INFO 1 anomalies found
+2022-11-17 14:09:27,420 INFO anomaly sequences start/end indices: [(7530, 7599)]
+2022-11-17 14:09:27,420 INFO number of test values: 8324
+2022-11-17 14:09:27,420 INFO anomaly scores: [{'start_idx': 7280, 'end_idx': 7349, 'score': 1.377292175726196}]
+
+2022-11-17 14:09:27,432 INFO Stream # 32: P-4
+2022-11-17 14:09:29,063 INFO normalized prediction error: 0.02
+2022-11-17 14:09:30,065 INFO 3 anomalies found
+2022-11-17 14:09:30,065 INFO anomaly sequences start/end indices: [(931, 1186), (2171, 2349), (4800, 4981)]
+2022-11-17 14:09:30,065 INFO number of test values: 7523
+2022-11-17 14:09:30,065 INFO anomaly scores: [{'start_idx': 681, 'end_idx': 936, 'score': 8.734114304783578}, {'start_idx': 1921, 'end_idx': 2099, 'score': 7.472550676449003}, {'start_idx': 4550, 'end_idx': 4619, 'score': 5.425981297183877}, {'start_idx': 4620, 'end_idx': 4689, 'score': 4.275676581122401}, {'start_idx': 4690, 'end_idx': 4731, 'score': 3.55008984851376}]
+
+2022-11-17 14:09:30,073 INFO Stream # 33: G-3
+2022-11-17 14:09:31,452 INFO normalized prediction error: 0.01
+2022-11-17 14:09:32,301 INFO 2 anomalies found
+2022-11-17 14:09:32,302 INFO anomaly sequences start/end indices: [(4170, 4377), (5640, 5709)]
+2022-11-17 14:09:32,302 INFO number of test values: 7647
+2022-11-17 14:09:32,302 INFO anomaly scores: [{'start_idx': 3920, 'end_idx': 3989, 'score': 6.716230002152881}, {'start_idx': 3990, 'end_idx': 4059, 'score': 5.916698203304198}, {'start_idx': 4060, 'end_idx': 4127, 'score': 4.703992863937951}, {'start_idx': 5390, 'end_idx': 5459, 'score': 5.664028705807607}]
+
+2022-11-17 14:09:32,311 INFO Stream # 34: T-1
+2022-11-17 14:09:33,836 INFO normalized prediction error: 0.05
+2022-11-17 14:09:34,497 INFO 3 anomalies found
+2022-11-17 14:09:34,498 INFO anomaly sequences start/end indices: [(2560, 2979), (3960, 4029), (6620, 6689)]
+2022-11-17 14:09:34,498 INFO number of test values: 8352
+2022-11-17 14:09:34,498 INFO anomaly scores: [{'start_idx': 2310, 'end_idx': 2379, 'score': 0.828209205420942}, {'start_idx': 2380, 'end_idx': 2449, 'score': 0.771452362607171}, {'start_idx': 2450, 'end_idx': 2519, 'score': 0.9048642810092411}, {'start_idx': 2520, 'end_idx': 2589, 'score': 1.0019216947683316}, {'start_idx': 2590, 'end_idx': 2659, 'score': 2.909117015121541}, {'start_idx': 2660, 'end_idx': 2729, 'score': 3.0469363118096515}, {'start_idx': 3710, 'end_idx': 3779, 'score': 5.151416427824976}, {'start_idx': 6370, 'end_idx': 6439, 'score': 2.2633108122476115}]
+
+2022-11-17 14:09:34,512 INFO Stream # 35: T-2
+2022-11-17 14:09:36,211 INFO normalized prediction error: 0.04
+2022-11-17 14:09:36,737 INFO 1 anomalies found
+2022-11-17 14:09:36,738 INFO anomaly sequences start/end indices: [(6900, 7039)]
+2022-11-17 14:09:36,738 INFO number of test values: 8365
+2022-11-17 14:09:36,738 INFO anomaly scores: [{'start_idx': 6650, 'end_idx': 6719, 'score': 2.660751063372037}, {'start_idx': 6720, 'end_idx': 6789, 'score': 2.40189109202434}]
+
+2022-11-17 14:09:36,747 INFO Stream # 36: D-8
+2022-11-17 14:09:38,338 INFO normalized prediction error: 0.00
+2022-11-17 14:09:39,295 INFO 0 anomalies found
+2022-11-17 14:09:39,295 INFO anomaly sequences start/end indices: []
+2022-11-17 14:09:39,295 INFO number of test values: 7614
+2022-11-17 14:09:39,295 INFO anomaly scores: []
+
+2022-11-17 14:09:39,303 INFO Stream # 37: D-9
+2022-11-17 14:09:40,827 INFO normalized prediction error: 0.02
+2022-11-17 14:10:33,766 INFO 2 anomalies found
+2022-11-17 14:10:33,767 INFO anomaly sequences start/end indices: [(6410, 6619), (7326, 7395)]
+2022-11-17 14:10:33,767 INFO number of test values: 7146
+2022-11-17 14:10:33,768 INFO anomaly scores: [{'start_idx': 6160, 'end_idx': 6229, 'score': 9.883358214478907}, {'start_idx': 6230, 'end_idx': 6299, 'score': 10.64324279249464}, {'start_idx': 6300, 'end_idx': 6369, 'score': 8.10845666922361}, {'start_idx': 7076, 'end_idx': 7145, 'score': 7.83465413030666}]
+
+2022-11-17 14:10:33,801 INFO Stream # 38: F-2
+2022-11-17 14:10:35,426 INFO normalized prediction error: 0.05
+2022-11-17 14:10:36,170 INFO 1 anomalies found
+2022-11-17 14:10:36,170 INFO anomaly sequences start/end indices: [(6760, 6969)]
+2022-11-17 14:10:36,171 INFO number of test values: 8366
+2022-11-17 14:10:36,171 INFO anomaly scores: [{'start_idx': 6510, 'end_idx': 6579, 'score': 2.715651041173886}, {'start_idx': 6580, 'end_idx': 6649, 'score': 3.4105390154720068}, {'start_idx': 6650, 'end_idx': 6719, 'score': 3.2445904648691886}]
+
+2022-11-17 14:10:36,192 INFO Stream # 39: G-4
+2022-11-17 14:10:37,726 INFO normalized prediction error: 0.01
+2022-11-17 14:10:38,354 INFO 1 anomalies found
+2022-11-17 14:10:38,354 INFO anomaly sequences start/end indices: [(4660, 4869)]
+2022-11-17 14:10:38,355 INFO number of test values: 7372
+2022-11-17 14:10:38,355 INFO anomaly scores: [{'start_idx': 4410, 'end_idx': 4479, 'score': 7.926250587311324}, {'start_idx': 4480, 'end_idx': 4549, 'score': 7.277272265158029}, {'start_idx': 4550, 'end_idx': 4619, 'score': 5.449883922148717}]
+
+2022-11-17 14:10:38,371 INFO Stream # 40: T-3
+2022-11-17 14:10:40,015 INFO normalized prediction error: 0.00
+2022-11-17 14:10:40,983 INFO 2 anomalies found
+2022-11-17 14:10:40,983 INFO anomaly sequences start/end indices: [(2057, 2320), (5220, 5417)]
+2022-11-17 14:10:40,983 INFO number of test values: 8319
+2022-11-17 14:10:40,983 INFO anomaly scores: [{'start_idx': 1807, 'end_idx': 2070, 'score': 7.773052880091911}, {'start_idx': 4970, 'end_idx': 5039, 'score': 8.138841489525548}, {'start_idx': 5040, 'end_idx': 5109, 'score': 6.910896607860791}, {'start_idx': 5110, 'end_idx': 5167, 'score': 5.3640743221867675}]
+
+2022-11-17 14:10:41,016 INFO Stream # 41: D-11
+2022-11-17 14:10:42,484 INFO normalized prediction error: 0.01
+2022-11-17 14:10:43,019 INFO 1 anomalies found
+2022-11-17 14:10:43,019 INFO anomaly sequences start/end indices: [(4240, 4449)]
+2022-11-17 14:10:43,020 INFO number of test values: 7171
+2022-11-17 14:10:43,020 INFO anomaly scores: [{'start_idx': 3990, 'end_idx': 4059, 'score': 16.84005058991966}, {'start_idx': 4060, 'end_idx': 4129, 'score': 12.696700138575894}, {'start_idx': 4130, 'end_idx': 4199, 'score': 10.086633074473825}]
+
+2022-11-17 14:10:43,030 INFO Stream # 42: D-12
+2022-11-17 14:10:44,512 INFO normalized prediction error: 0.08
+2022-11-17 14:10:45,158 INFO 2 anomalies found
+2022-11-17 14:10:45,159 INFO anomaly sequences start/end indices: [(5360, 5709), (7320, 7529)]
+2022-11-17 14:10:45,159 INFO number of test values: 7658
+2022-11-17 14:10:45,159 INFO anomaly scores: [{'start_idx': 5110, 'end_idx': 5179, 'score': 1.0740744473070496}, {'start_idx': 5180, 'end_idx': 5249, 'score': 2.1960862757385846}, {'start_idx': 5250, 'end_idx': 5319, 'score': 2.86359920662022}, {'start_idx': 5320, 'end_idx': 5389, 'score': 3.3270632686325246}, {'start_idx': 5390, 'end_idx': 5459, 'score': 3.6879447325479933}, {'start_idx': 7070, 'end_idx': 7139, 'score': 5.580478489027609}, {'start_idx': 7140, 'end_idx': 7209, 'score': 5.863506457162875}, {'start_idx': 7210, 'end_idx': 7279, 'score': 5.933604003583002}]
+
+2022-11-17 14:10:45,168 INFO Stream # 43: B-1
+2022-11-17 14:10:46,807 INFO normalized prediction error: 0.04
+2022-11-17 14:10:47,608 INFO 1 anomalies found
+2022-11-17 14:10:47,608 INFO anomaly sequences start/end indices: [(5010, 5219)]
+2022-11-17 14:10:47,609 INFO number of test values: 7784
+2022-11-17 14:10:47,609 INFO anomaly scores: [{'start_idx': 4760, 'end_idx': 4829, 'score': 4.660098321875579}, {'start_idx': 4830, 'end_idx': 4899, 'score': 10.465675115274706}, {'start_idx': 4900, 'end_idx': 4969, 'score': 8.771172599051551}]
+
+2022-11-17 14:10:47,620 INFO Stream # 44: G-6
+2022-11-17 14:10:49,169 INFO normalized prediction error: 0.01
+2022-11-17 14:10:49,900 INFO 1 anomalies found
+2022-11-17 14:10:49,900 INFO anomaly sequences start/end indices: [(5640, 5779)]
+2022-11-17 14:10:49,900 INFO number of test values: 8380
+2022-11-17 14:10:49,901 INFO anomaly scores: [{'start_idx': 5390, 'end_idx': 5459, 'score': 9.659500346434701}, {'start_idx': 5460, 'end_idx': 5529, 'score': 6.969330770784888}]
+
+2022-11-17 14:10:49,910 INFO Stream # 45: G-7
+2022-11-17 14:10:51,508 INFO normalized prediction error: 0.03
+2022-11-17 14:10:52,511 INFO 3 anomalies found
+2022-11-17 14:10:52,511 INFO anomaly sequences start/end indices: [(3610, 3878), (5010, 5217), (7530, 7810)]
+2022-11-17 14:10:52,512 INFO number of test values: 7769
+2022-11-17 14:10:52,512 INFO anomaly scores: [{'start_idx': 3360, 'end_idx': 3429, 'score': 5.170964675708505}, {'start_idx': 3430, 'end_idx': 3499, 'score': 9.711777713398169}, {'start_idx': 3500, 'end_idx': 3569, 'score': 8.550086976493331}, {'start_idx': 3570, 'end_idx': 3628, 'score': 6.531501643902246}, {'start_idx': 4760, 'end_idx': 4829, 'score': 7.8773929424721425}, {'start_idx': 4830, 'end_idx': 4899, 'score': 8.396578614530656}, {'start_idx': 4900, 'end_idx': 4967, 'score': 6.696165120319176}, {'start_idx': 7280, 'end_idx': 7349, 'score': 4.309801757886867}, {'start_idx': 7350, 'end_idx': 7419, 'score': 10.349755819902432}, {'start_idx': 7420, 'end_idx': 7489, 'score': 9.763153955257005}, {'start_idx': 7490, 'end_idx': 7559, 'score': 7.2444599210610034}, {'start_idx': 7560, 'end_idx': 7560, 'score': 6.796017582218784}]
+
+2022-11-17 14:10:52,524 INFO Stream # 46: P-7
+2022-11-17 14:10:53,777 INFO normalized prediction error: 0.03
+2022-11-17 14:10:54,305 INFO 2 anomalies found
+2022-11-17 14:10:54,306 INFO anomaly sequences start/end indices: [(5010, 5289), (5360, 5429)]
+2022-11-17 14:10:54,306 INFO number of test values: 7811
+2022-11-17 14:10:54,306 INFO anomaly scores: [{'start_idx': 4760, 'end_idx': 4829, 'score': 3.9151414560094184}, {'start_idx': 4830, 'end_idx': 4899, 'score': 5.465854369405114}, {'start_idx': 4900, 'end_idx': 4969, 'score': 5.64060574242968}, {'start_idx': 4970, 'end_idx': 5039, 'score': 5.455695487238523}, {'start_idx': 5110, 'end_idx': 5179, 'score': 5.647904108869424}]
+
+2022-11-17 14:10:54,316 INFO Stream # 47: R-1
+2022-11-17 14:10:55,823 INFO normalized prediction error: 0.01
+2022-11-17 14:10:56,726 INFO 1 anomalies found
+2022-11-17 14:10:56,727 INFO anomaly sequences start/end indices: [(4520, 4726)]
+2022-11-17 14:10:56,727 INFO number of test values: 6984
+2022-11-17 14:10:56,727 INFO anomaly scores: [{'start_idx': 4270, 'end_idx': 4339, 'score': 3.2354282692345238}, {'start_idx': 4340, 'end_idx': 4409, 'score': 3.0673219082646157}, {'start_idx': 4410, 'end_idx': 4476, 'score': 2.344771594166599}]
+
+2022-11-17 14:10:56,735 INFO Stream # 48: A-5
+2022-11-17 14:10:58,148 INFO normalized prediction error: 0.05
+2022-11-17 14:10:58,385 INFO 1 anomalies found
+2022-11-17 14:10:58,385 INFO anomaly sequences start/end indices: [(2700, 2979)]
+2022-11-17 14:10:58,385 INFO number of test values: 4433
+2022-11-17 14:10:58,386 INFO anomaly scores: [{'start_idx': 2450, 'end_idx': 2519, 'score': 12.269136642721893}, {'start_idx': 2520, 'end_idx': 2589, 'score': 11.394083861602239}, {'start_idx': 2590, 'end_idx': 2659, 'score': 9.354432199181918}, {'start_idx': 2660, 'end_idx': 2729, 'score': 8.669597201369761}]
+
+2022-11-17 14:10:58,395 INFO Stream # 49: A-6
+2022-11-17 14:10:59,669 INFO normalized prediction error: 0.01
+2022-11-17 14:11:00,080 INFO 1 anomalies found
+2022-11-17 14:11:00,081 INFO anomaly sequences start/end indices: [(1805, 2084)]
+2022-11-17 14:11:00,081 INFO number of test values: 4193
+2022-11-17 14:11:00,081 INFO anomaly scores: [{'start_idx': 1555, 'end_idx': 1834, 'score': 10.481580454283721}]
+
+2022-11-17 14:11:00,091 INFO Stream # 50: A-7
+2022-11-17 14:11:01,833 INFO normalized prediction error: 0.06
+2022-11-17 14:11:02,572 INFO 2 anomalies found
+2022-11-17 14:11:02,572 INFO anomaly sequences start/end indices: [(6200, 6689), (8300, 8509)]
+2022-11-17 14:11:02,573 INFO number of test values: 8371
+2022-11-17 14:11:02,573 INFO anomaly scores: [{'start_idx': 5950, 'end_idx': 6019, 'score': 0.4597397831090678}, {'start_idx': 6020, 'end_idx': 6089, 'score': 2.831017693253947}, {'start_idx': 6090, 'end_idx': 6159, 'score': 3.8412110316979886}, {'start_idx': 6160, 'end_idx': 6229, 'score': 4.149637890553119}, {'start_idx': 6230, 'end_idx': 6299, 'score': 4.382405842161476}, {'start_idx': 6300, 'end_idx': 6369, 'score': 4.539162377958209}, {'start_idx': 6370, 'end_idx': 6439, 'score': 4.496962459236596}, {'start_idx': 8050, 'end_idx': 8119, 'score': 0.5292107760857965}, {'start_idx': 8120, 'end_idx': 8189, 'score': 1.1852978768011284}, {'start_idx': 8190, 'end_idx': 8259, 'score': 1.234723247372435}]
+
+2022-11-17 14:11:02,582 INFO Stream # 51: D-13
+2022-11-17 14:11:04,032 INFO normalized prediction error: 0.02
+2022-11-17 14:11:04,908 INFO 1 anomalies found
+2022-11-17 14:11:04,908 INFO anomaly sequences start/end indices: [(5080, 5343)]
+2022-11-17 14:11:04,909 INFO number of test values: 7403
+2022-11-17 14:11:04,909 INFO anomaly scores: [{'start_idx': 4830, 'end_idx': 4899, 'score': 8.179095469698204}, {'start_idx': 4900, 'end_idx': 4969, 'score': 10.028533066136328}, {'start_idx': 4970, 'end_idx': 5039, 'score': 8.663958069178404}, {'start_idx': 5040, 'end_idx': 5093, 'score': 7.194747687434269}]
+
+2022-11-17 14:11:04,920 INFO Stream # 52: A-8
+2022-11-17 14:11:06,420 INFO normalized prediction error: 0.10
+2022-11-17 14:11:06,945 INFO 2 anomalies found
+2022-11-17 14:11:06,945 INFO anomaly sequences start/end indices: [(7880, 8229), (8295, 8364)]
+2022-11-17 14:11:06,946 INFO number of test values: 8115
+2022-11-17 14:11:06,946 INFO anomaly scores: [{'start_idx': 7630, 'end_idx': 7699, 'score': 5.318311745497083}, {'start_idx': 7700, 'end_idx': 7769, 'score': 5.612433108600383}, {'start_idx': 7770, 'end_idx': 7839, 'score': 5.948544695416078}, {'start_idx': 7840, 'end_idx': 7909, 'score': 6.308620953396671}, {'start_idx': 7910, 'end_idx': 7979, 'score': 8.199624097221204}, {'start_idx': 8045, 'end_idx': 8114, 'score': 9.746116118182636}]
+
+2022-11-17 14:11:06,955 INFO Stream # 53: A-9
+2022-11-17 14:11:08,482 INFO normalized prediction error: 0.47
+2022-11-17 14:11:08,981 INFO 0 anomalies found
+2022-11-17 14:11:08,981 INFO anomaly sequences start/end indices: []
+2022-11-17 14:11:08,982 INFO number of test values: 8174
+2022-11-17 14:11:08,982 INFO anomaly scores: []
+
+2022-11-17 14:11:09,024 INFO Stream # 54: F-3
+2022-11-17 14:11:10,720 INFO normalized prediction error: 0.01
+2022-11-17 14:11:11,117 INFO 0 anomalies found
+2022-11-17 14:11:11,118 INFO anomaly sequences start/end indices: []
+2022-11-17 14:11:11,118 INFO number of test values: 8116
+2022-11-17 14:11:11,118 INFO anomaly scores: []
+
+2022-11-17 14:11:11,129 INFO Stream # 55: T-12
+2022-11-17 14:11:12,485 INFO normalized prediction error: 0.02
+2022-11-17 14:11:12,504 INFO 1 anomalies found
+2022-11-17 14:11:12,504 INFO anomaly sequences start/end indices: [(616, 852)]
+2022-11-17 14:11:12,504 INFO number of test values: 2170
+2022-11-17 14:11:12,505 INFO anomaly scores: [{'start_idx': 366, 'end_idx': 602, 'score': 5.543311193851068}]
+
+2022-11-17 14:11:12,514 INFO Stream # 56: T-13
+2022-11-17 14:11:14,073 INFO normalized prediction error: 0.03
+2022-11-17 14:11:14,083 INFO 0 anomalies found
+2022-11-17 14:11:14,084 INFO anomaly sequences start/end indices: []
+2022-11-17 14:11:14,084 INFO number of test values: 2170
+2022-11-17 14:11:14,084 INFO anomaly scores: []
+
+2022-11-17 14:11:14,095 INFO Stream # 57: T-9
+2022-11-17 14:11:15,667 INFO normalized prediction error: 0.16
+2022-11-17 14:11:15,671 INFO 0 anomalies found
+2022-11-17 14:11:15,671 INFO anomaly sequences start/end indices: []
+2022-11-17 14:11:15,671 INFO number of test values: 836
+2022-11-17 14:11:15,671 INFO anomaly scores: []
+
+2022-11-17 14:11:15,684 INFO Stream # 58: P-14
+2022-11-17 14:11:17,484 INFO normalized prediction error: 0.04
+2022-11-17 14:11:17,830 INFO 1 anomalies found
+2022-11-17 14:11:17,831 INFO anomaly sequences start/end indices: [(4590, 4869)]
+2022-11-17 14:11:17,831 INFO number of test values: 5840
+2022-11-17 14:11:17,831 INFO anomaly scores: [{'start_idx': 4340, 'end_idx': 4409, 'score': 14.10696360333028}, {'start_idx': 4410, 'end_idx': 4479, 'score': 13.554912030631867}, {'start_idx': 4480, 'end_idx': 4549, 'score': 11.553402063054795}, {'start_idx': 4550, 'end_idx': 4619, 'score': 10.28278086891494}]
+
+2022-11-17 14:11:17,841 INFO Stream # 59: M-6
+2022-11-17 14:11:19,219 INFO normalized prediction error: 0.05
+2022-11-17 14:11:19,234 INFO 1 anomalies found
+2022-11-17 14:11:19,234 INFO anomaly sequences start/end indices: [(1815, 2038)]
+2022-11-17 14:11:19,234 INFO number of test values: 1789
+2022-11-17 14:11:19,234 INFO anomaly scores: [{'start_idx': 1565, 'end_idx': 1788, 'score': 12.056149587243608}]
+
+2022-11-17 14:11:19,243 INFO Stream # 60: M-1
+2022-11-17 14:11:20,743 INFO normalized prediction error: 0.06
+2022-11-17 14:11:20,753 INFO 0 anomalies found
+2022-11-17 14:11:20,754 INFO anomaly sequences start/end indices: []
+2022-11-17 14:11:20,754 INFO number of test values: 2017
+2022-11-17 14:11:20,754 INFO anomaly scores: []
+
+2022-11-17 14:11:20,763 INFO Stream # 61: M-2
+2022-11-17 14:11:22,412 INFO normalized prediction error: 0.10
+2022-11-17 14:11:22,418 INFO 0 anomalies found
+2022-11-17 14:11:22,418 INFO anomaly sequences start/end indices: []
+2022-11-17 14:11:22,419 INFO number of test values: 2017
+2022-11-17 14:11:22,419 INFO anomaly scores: []
+
+2022-11-17 14:11:22,428 INFO Stream # 62: S-2
+2022-11-17 14:11:23,847 INFO normalized prediction error: 0.01
+2022-11-17 14:11:23,861 INFO 1 anomalies found
+2022-11-17 14:11:23,861 INFO anomaly sequences start/end indices: [(806, 1064)]
+2022-11-17 14:11:23,861 INFO number of test values: 1567
+2022-11-17 14:11:23,862 INFO anomaly scores: [{'start_idx': 556, 'end_idx': 814, 'score': 8.696106573080577}]
+
+2022-11-17 14:11:23,871 INFO Stream # 63: T-4
+2022-11-17 14:11:25,227 INFO normalized prediction error: 0.10
+2022-11-17 14:11:25,236 INFO 0 anomalies found
+2022-11-17 14:11:25,236 INFO anomaly sequences start/end indices: []
+2022-11-17 14:11:25,236 INFO number of test values: 1957
+2022-11-17 14:11:25,236 INFO anomaly scores: []
+
+2022-11-17 14:11:25,246 INFO Stream # 64: T-5
+2022-11-17 14:11:26,684 INFO normalized prediction error: 0.01
+2022-11-17 14:11:26,708 INFO 1 anomalies found
+2022-11-17 14:11:26,708 INFO anomaly sequences start/end indices: [(1114, 1381)]
+2022-11-17 14:11:26,708 INFO number of test values: 1958
+2022-11-17 14:11:26,709 INFO anomaly scores: [{'start_idx': 864, 'end_idx': 1131, 'score': 12.319131674587176}]
+
+2022-11-17 14:11:26,720 INFO Stream # 65: F-7
+2022-11-17 14:11:28,291 INFO normalized prediction error: 0.17
+2022-11-17 14:11:28,501 INFO 3 anomalies found
+2022-11-17 14:11:28,502 INFO anomaly sequences start/end indices: [(1322, 1576), (1967, 2206), (2700, 2839)]
+2022-11-17 14:11:28,502 INFO number of test values: 4794
+2022-11-17 14:11:28,502 INFO anomaly scores: [{'start_idx': 1072, 'end_idx': 1326, 'score': 3.9276375679388003}, {'start_idx': 1717, 'end_idx': 1956, 'score': 3.8424011631597415}, {'start_idx': 2450, 'end_idx': 2519, 'score': 4.101335290412766}, {'start_idx': 2520, 'end_idx': 2589, 'score': 4.172172540715242}]
+
+2022-11-17 14:11:28,511 INFO Stream # 66: M-3
+2022-11-17 14:11:29,792 INFO normalized prediction error: 0.08
+2022-11-17 14:11:29,807 INFO 1 anomalies found
+2022-11-17 14:11:29,807 INFO anomaly sequences start/end indices: [(1372, 1652)]
+2022-11-17 14:11:29,807 INFO number of test values: 1867
+2022-11-17 14:11:29,808 INFO anomaly scores: [{'start_idx': 1122, 'end_idx': 1402, 'score': 4.735614868979888}]
+
+2022-11-17 14:11:29,828 INFO Stream # 67: M-4
+2022-11-17 14:11:31,115 INFO normalized prediction error: 0.12
+2022-11-17 14:11:31,127 INFO 1 anomalies found
+2022-11-17 14:11:31,127 INFO anomaly sequences start/end indices: [(1315, 1595)]
+2022-11-17 14:11:31,128 INFO number of test values: 1778
+2022-11-17 14:11:31,128 INFO anomaly scores: [{'start_idx': 1065, 'end_idx': 1345, 'score': 4.282517199774156}]
+
+2022-11-17 14:11:31,138 INFO Stream # 68: M-5
+2022-11-17 14:11:32,701 INFO normalized prediction error: 0.09
+2022-11-17 14:11:32,714 INFO 1 anomalies found
+2022-11-17 14:11:32,715 INFO anomaly sequences start/end indices: [(1529, 1793)]
+2022-11-17 14:11:32,715 INFO number of test values: 2043
+2022-11-17 14:11:32,716 INFO anomaly scores: [{'start_idx': 1279, 'end_idx': 1543, 'score': 4.600139177156053}]
+
+2022-11-17 14:11:32,727 INFO Stream # 69: P-15
+2022-11-17 14:11:34,374 INFO normalized prediction error: 0.02
+2022-11-17 14:11:34,555 INFO 1 anomalies found
+2022-11-17 14:11:34,555 INFO anomaly sequences start/end indices: [(1300, 1567)]
+2022-11-17 14:11:34,555 INFO number of test values: 2596
+2022-11-17 14:11:34,556 INFO anomaly scores: [{'start_idx': 1050, 'end_idx': 1317, 'score': 8.95415082252611}]
+
+2022-11-17 14:11:34,568 INFO Stream # 70: C-1
+2022-11-17 14:11:36,003 INFO normalized prediction error: 0.03
+2022-11-17 14:11:36,023 INFO 1 anomalies found
+2022-11-17 14:11:36,023 INFO anomaly sequences start/end indices: [(500, 757)]
+2022-11-17 14:11:36,023 INFO number of test values: 2004
+2022-11-17 14:11:36,024 INFO anomaly scores: [{'start_idx': 250, 'end_idx': 507, 'score': 6.266669921114471}]
+
+2022-11-17 14:11:36,038 INFO Stream # 71: C-2
+2022-11-17 14:11:37,499 INFO normalized prediction error: 0.11
+2022-11-17 14:11:37,518 INFO 1 anomalies found
+2022-11-17 14:11:37,518 INFO anomaly sequences start/end indices: [(250, 445)]
+2022-11-17 14:11:37,518 INFO number of test values: 1791
+2022-11-17 14:11:37,519 INFO anomaly scores: [{'start_idx': 0, 'end_idx': 195, 'score': 6.1673320014040485}]
+
+2022-11-17 14:11:37,533 INFO Stream # 72: F-4
+2022-11-17 14:11:38,997 INFO normalized prediction error: 0.04
+2022-11-17 14:11:39,143 INFO 1 anomalies found
+2022-11-17 14:11:39,144 INFO anomaly sequences start/end indices: [(2700, 2839)]
+2022-11-17 14:11:39,144 INFO number of test values: 3162
+2022-11-17 14:11:39,144 INFO anomaly scores: [{'start_idx': 2450, 'end_idx': 2519, 'score': 7.009421779108329}, {'start_idx': 2520, 'end_idx': 2589, 'score': 6.583200204562058}]
+
+2022-11-17 14:11:39,152 INFO Stream # 73: F-5
+2022-11-17 14:11:40,676 INFO normalized prediction error: 0.02
+2022-11-17 14:11:40,905 INFO 1 anomalies found
+2022-11-17 14:11:40,906 INFO anomaly sequences start/end indices: [(3540, 3813)]
+2022-11-17 14:11:40,906 INFO number of test values: 3662
+2022-11-17 14:11:40,906 INFO anomaly scores: [{'start_idx': 3290, 'end_idx': 3359, 'score': 14.152522391730997}, {'start_idx': 3360, 'end_idx': 3429, 'score': 13.488329502665573}, {'start_idx': 3430, 'end_idx': 3499, 'score': 12.039603433214708}, {'start_idx': 3500, 'end_idx': 3563, 'score': 9.211652835978455}]
+
+2022-11-17 14:11:40,917 INFO Stream # 74: D-14
+2022-11-17 14:11:42,543 INFO normalized prediction error: 0.03
+2022-11-17 14:11:42,579 INFO 1 anomalies found
+2022-11-17 14:11:42,579 INFO anomaly sequences start/end indices: [(1891, 2119)]
+2022-11-17 14:11:42,579 INFO number of test values: 2365
+2022-11-17 14:11:42,579 INFO anomaly scores: [{'start_idx': 1641, 'end_idx': 1869, 'score': 10.025303505940375}]
+
+2022-11-17 14:11:42,590 INFO Stream # 75: P-10
+2022-11-17 14:11:44,346 INFO normalized prediction error: 0.06
+2022-11-17 14:11:44,779 INFO 1 anomalies found
+2022-11-17 14:11:44,780 INFO anomaly sequences start/end indices: [(4590, 5009)]
+2022-11-17 14:11:44,780 INFO number of test values: 5840
+2022-11-17 14:11:44,780 INFO anomaly scores: [{'start_idx': 4340, 'end_idx': 4409, 'score': 9.583220915591768}, {'start_idx': 4410, 'end_idx': 4479, 'score': 11.508316476492856}, {'start_idx': 4480, 'end_idx': 4549, 'score': 10.41027669523142}, {'start_idx': 4550, 'end_idx': 4619, 'score': 9.844461137308446}, {'start_idx': 4620, 'end_idx': 4689, 'score': 9.343835247249608}, {'start_idx': 4690, 'end_idx': 4759, 'score': 8.948602560313807}]
+
+2022-11-17 14:11:44,791 INFO Stream # 76: T-8
+2022-11-17 14:11:46,197 INFO normalized prediction error: 0.04
+2022-11-17 14:11:46,209 INFO 2 anomalies found
+2022-11-17 14:11:46,210 INFO anomaly sequences start/end indices: [(786, 1036), (1273, 1488)]
+2022-11-17 14:11:46,210 INFO number of test values: 1259
+2022-11-17 14:11:46,211 INFO anomaly scores: [{'start_idx': 536, 'end_idx': 786, 'score': 4.407013980375386}, {'start_idx': 1023, 'end_idx': 1238, 'score': 4.2558926114087425}]
+
+2022-11-17 14:11:46,222 INFO Stream # 77: P-11
+2022-11-17 14:11:47,893 INFO normalized prediction error: 0.02
+2022-11-17 14:11:48,063 INFO 2 anomalies found
+2022-11-17 14:11:48,063 INFO anomaly sequences start/end indices: [(1190, 1464), (1750, 2010)]
+2022-11-17 14:11:48,064 INFO number of test values: 3275
+2022-11-17 14:11:48,064 INFO anomaly scores: [{'start_idx': 940, 'end_idx': 1214, 'score': 3.511053837640646}, {'start_idx': 1500, 'end_idx': 1760, 'score': 3.6618481762899315}]
+
+2022-11-17 14:11:48,074 INFO Stream # 78: D-15
+2022-11-17 14:11:49,646 INFO normalized prediction error: 0.15
+2022-11-17 14:11:49,655 INFO 1 anomalies found
+2022-11-17 14:11:49,655 INFO anomaly sequences start/end indices: [(1751, 2147)]
+2022-11-17 14:11:49,655 INFO number of test values: 1898
+2022-11-17 14:11:49,655 INFO anomaly scores: [{'start_idx': 1501, 'end_idx': 1897, 'score': 3.3455765655852594}]
+
+2022-11-17 14:11:49,664 INFO Stream # 79: D-16
+2022-11-17 14:11:51,082 INFO normalized prediction error: 0.17
+2022-11-17 14:11:51,090 INFO 1 anomalies found
+2022-11-17 14:11:51,090 INFO anomaly sequences start/end indices: [(726, 957)]
+2022-11-17 14:11:51,090 INFO number of test values: 1931
+2022-11-17 14:11:51,091 INFO anomaly scores: [{'start_idx': 476, 'end_idx': 707, 'score': 5.48277629855431}]
+
+2022-11-17 14:11:51,100 INFO Stream # 80: M-7
+2022-11-17 14:11:52,603 INFO normalized prediction error: 0.02
+2022-11-17 14:11:52,618 INFO 1 anomalies found
+2022-11-17 14:11:52,618 INFO anomaly sequences start/end indices: [(861, 1156)]
+2022-11-17 14:11:52,619 INFO number of test values: 1896
+2022-11-17 14:11:52,619 INFO anomaly scores: [{'start_idx': 611, 'end_idx': 906, 'score': 10.371597077869554}]
+
+2022-11-17 14:11:52,630 INFO Stream # 81: F-8
+2022-11-17 14:11:54,210 INFO normalized prediction error: 0.08
+2022-11-17 14:11:54,237 INFO 1 anomalies found
+2022-11-17 14:11:54,237 INFO anomaly sequences start/end indices: [(1915, 2238)]
+2022-11-17 14:11:54,237 INFO number of test values: 2227
+2022-11-17 14:11:54,238 INFO anomaly scores: [{'start_idx': 1665, 'end_idx': 1988, 'score': 5.0580340941692645}]
+
+2022-11-17 14:11:54,248 INFO Stream # 82: T-10
+2022-11-17 14:11:55,624 INFO normalized prediction error: 0.06
+2022-11-17 14:11:55,632 INFO 1 anomalies found
+2022-11-17 14:11:55,632 INFO anomaly sequences start/end indices: [(409, 659)]
+2022-11-17 14:11:55,632 INFO number of test values: 410
+2022-11-17 14:11:55,632 INFO anomaly scores: [{'start_idx': 159, 'end_idx': 409, 'score': 0.7226831916555685}]
+
+2022-11-17 14:11:55,642 INFO Final Totals:
+2022-11-17 14:11:55,643 INFO -----------------
+2022-11-17 14:11:55,643 INFO Total channel sets evaluated: 82
+2022-11-17 14:11:55,644 INFO Total anomalies found: 112
+2022-11-17 14:11:55,645 INFO Avg normalized prediction error: 0.05948840951025827
+2022-11-17 14:11:55,645 INFO Total number of values evaluated: 488905
+2022-11-17 14:50:37,604 INFO 82 channels found for processing.
+2022-11-17 14:50:37,608 INFO Stream # 1: P-1
+2022-11-17 14:50:38,695 INFO normalized prediction error: 0.09
+2022-11-17 14:50:39,457 INFO 4 anomalies found
+2022-11-17 14:50:39,458 INFO anomaly sequences start/end indices: [(2130, 2349), (3190, 3329), (3540, 3679), (4520, 4589)]
+2022-11-17 14:50:39,458 INFO number of test values: 8245
+2022-11-17 14:50:39,458 INFO anomaly scores: [{'start_idx': 1880, 'end_idx': 2099, 'score': 2.0284713472409055}, {'start_idx': 2940, 'end_idx': 3009, 'score': 2.1372898817915145}, {'start_idx': 3010, 'end_idx': 3079, 'score': 2.163556613516779}, {'start_idx': 3290, 'end_idx': 3359, 'score': 2.1331476542631735}, {'start_idx': 3360, 'end_idx': 3429, 'score': 2.2936228235904377}, {'start_idx': 4270, 'end_idx': 4339, 'score': 0.9175092986586291}]
+
+2022-11-17 14:50:39,467 INFO Stream # 2: S-1
+2022-11-17 14:50:39,781 INFO normalized prediction error: 0.19
+2022-11-17 14:50:40,468 INFO 1 anomalies found
+2022-11-17 14:50:40,469 INFO anomaly sequences start/end indices: [(5290, 5656)]
+2022-11-17 14:50:40,469 INFO number of test values: 7071
+2022-11-17 14:50:40,469 INFO anomaly scores: [{'start_idx': 5040, 'end_idx': 5109, 'score': 2.269975917220566}, {'start_idx': 5110, 'end_idx': 5179, 'score': 7.345765363462041}, {'start_idx': 5180, 'end_idx': 5249, 'score': 8.138666866285874}, {'start_idx': 5250, 'end_idx': 5319, 'score': 7.9385381199071166}, {'start_idx': 5320, 'end_idx': 5389, 'score': 7.038188502422944}, {'start_idx': 5390, 'end_idx': 5406, 'score': 6.185723200952486}]
+
+2022-11-17 14:50:40,478 INFO Stream # 3: E-1
+2022-11-17 14:50:41,350 INFO normalized prediction error: 0.07
+2022-11-17 14:50:42,305 INFO 3 anomalies found
+2022-11-17 14:50:42,306 INFO anomaly sequences start/end indices: [(1751, 2001), (5010, 5149), (5570, 5965)]
+2022-11-17 14:50:42,306 INFO number of test values: 8256
+2022-11-17 14:50:42,307 INFO anomaly scores: [{'start_idx': 1501, 'end_idx': 1751, 'score': 3.370114482430331}, {'start_idx': 4760, 'end_idx': 4829, 'score': 8.02425671004024}, {'start_idx': 4830, 'end_idx': 4899, 'score': 6.015687399374383}, {'start_idx': 5320, 'end_idx': 5389, 'score': 7.506587332861675}, {'start_idx': 5390, 'end_idx': 5459, 'score': 9.328760311602148}, {'start_idx': 5460, 'end_idx': 5529, 'score': 9.20637885751533}, {'start_idx': 5530, 'end_idx': 5599, 'score': 8.94118299461437}, {'start_idx': 5600, 'end_idx': 5669, 'score': 8.581765932295577}, {'start_idx': 5670, 'end_idx': 5715, 'score': 7.0949744870615365}]
+
+2022-11-17 14:50:42,315 INFO Stream # 4: E-2
+2022-11-17 14:50:43,179 INFO normalized prediction error: 0.07
+2022-11-17 14:50:43,827 INFO 1 anomalies found
+2022-11-17 14:50:43,828 INFO anomaly sequences start/end indices: [(5570, 5919)]
+2022-11-17 14:50:43,828 INFO number of test values: 8272
+2022-11-17 14:50:43,828 INFO anomaly scores: [{'start_idx': 5320, 'end_idx': 5389, 'score': 3.0941837450097585}, {'start_idx': 5390, 'end_idx': 5459, 'score': 4.939148769881637}, {'start_idx': 5460, 'end_idx': 5529, 'score': 6.560282387098662}, {'start_idx': 5530, 'end_idx': 5599, 'score': 6.8247197331985445}, {'start_idx': 5600, 'end_idx': 5669, 'score': 6.402748895152173}]
+
+2022-11-17 14:50:43,837 INFO Stream # 5: E-3
+2022-11-17 14:50:44,169 INFO normalized prediction error: 0.02
+2022-11-17 14:50:44,947 INFO 1 anomalies found
+2022-11-17 14:50:44,947 INFO anomaly sequences start/end indices: [(5570, 5779)]
+2022-11-17 14:50:44,948 INFO number of test values: 8047
+2022-11-17 14:50:44,948 INFO anomaly scores: [{'start_idx': 5320, 'end_idx': 5389, 'score': 4.101989327931225}, {'start_idx': 5390, 'end_idx': 5459, 'score': 4.480692050219633}, {'start_idx': 5460, 'end_idx': 5529, 'score': 3.323905578562692}]
+
+2022-11-17 14:50:44,961 INFO Stream # 6: E-4
+2022-11-17 14:50:45,283 INFO normalized prediction error: 0.06
+2022-11-17 14:50:45,869 INFO 1 anomalies found
+2022-11-17 14:50:45,869 INFO anomaly sequences start/end indices: [(5570, 5975)]
+2022-11-17 14:50:45,870 INFO number of test values: 8094
+2022-11-17 14:50:45,870 INFO anomaly scores: [{'start_idx': 5320, 'end_idx': 5389, 'score': 2.032620725617332}, {'start_idx': 5390, 'end_idx': 5459, 'score': 0.8852654216762841}, {'start_idx': 5460, 'end_idx': 5529, 'score': 1.0486795194180234}, {'start_idx': 5530, 'end_idx': 5599, 'score': 1.0559542648904379}, {'start_idx': 5600, 'end_idx': 5669, 'score': 1.0728754030498278}, {'start_idx': 5670, 'end_idx': 5725, 'score': 0.869049868988597}]
+
+2022-11-17 14:50:45,876 INFO Stream # 7: E-5
+2022-11-17 14:50:46,194 INFO normalized prediction error: 0.08
+2022-11-17 14:50:46,725 INFO 1 anomalies found
+2022-11-17 14:50:46,726 INFO anomaly sequences start/end indices: [(5570, 5709)]
+2022-11-17 14:50:46,726 INFO number of test values: 8034
+2022-11-17 14:50:46,726 INFO anomaly scores: [{'start_idx': 5320, 'end_idx': 5389, 'score': 4.205687890657691}, {'start_idx': 5390, 'end_idx': 5459, 'score': 4.089169830194193}]
+
+2022-11-17 14:50:46,735 INFO Stream # 8: E-6
+2022-11-17 14:50:47,057 INFO normalized prediction error: 0.01
+2022-11-17 14:50:47,908 INFO 1 anomalies found
+2022-11-17 14:50:47,909 INFO anomaly sequences start/end indices: [(5570, 5779)]
+2022-11-17 14:50:47,909 INFO number of test values: 8040
+2022-11-17 14:50:47,910 INFO anomaly scores: [{'start_idx': 5320, 'end_idx': 5389, 'score': 15.602901137724285}, {'start_idx': 5390, 'end_idx': 5459, 'score': 12.968206099591745}, {'start_idx': 5460, 'end_idx': 5529, 'score': 9.17649006522389}]
+
+2022-11-17 14:50:47,920 INFO Stream # 9: E-7
+2022-11-17 14:50:48,147 INFO normalized prediction error: 0.03
+2022-11-17 14:50:48,967 INFO 1 anomalies found
+2022-11-17 14:50:48,967 INFO anomaly sequences start/end indices: [(5430, 5766)]
+2022-11-17 14:50:48,967 INFO number of test values: 8050
+2022-11-17 14:50:48,968 INFO anomaly scores: [{'start_idx': 5180, 'end_idx': 5249, 'score': 9.1230057802744}, {'start_idx': 5250, 'end_idx': 5319, 'score': 8.117996497569386}, {'start_idx': 5320, 'end_idx': 5389, 'score': 8.865600126882121}, {'start_idx': 5390, 'end_idx': 5459, 'score': 8.514335944037914}, {'start_idx': 5460, 'end_idx': 5516, 'score': 6.653247799486637}]
+
+2022-11-17 14:50:48,977 INFO Stream # 10: E-8
+2022-11-17 14:50:49,206 INFO normalized prediction error: 0.07
+2022-11-17 14:50:49,661 INFO 1 anomalies found
+2022-11-17 14:50:49,662 INFO anomaly sequences start/end indices: [(5710, 5919)]
+2022-11-17 14:50:49,662 INFO number of test values: 8272
+2022-11-17 14:50:49,662 INFO anomaly scores: [{'start_idx': 5460, 'end_idx': 5529, 'score': 2.4587428955139123}, {'start_idx': 5530, 'end_idx': 5599, 'score': 2.8969791401437726}, {'start_idx': 5600, 'end_idx': 5669, 'score': 2.6943025203474305}]
+
+2022-11-17 14:50:49,670 INFO Stream # 11: E-9
+2022-11-17 14:50:49,895 INFO normalized prediction error: 0.05
+2022-11-17 14:50:50,338 INFO 1 anomalies found
+2022-11-17 14:50:50,338 INFO anomaly sequences start/end indices: [(5710, 5919)]
+2022-11-17 14:50:50,339 INFO number of test values: 8042
+2022-11-17 14:50:50,339 INFO anomaly scores: [{'start_idx': 5460, 'end_idx': 5529, 'score': 0.9955577576882938}, {'start_idx': 5530, 'end_idx': 5599, 'score': 1.000330877033821}, {'start_idx': 5600, 'end_idx': 5669, 'score': 1.060322064489463}]
+
+2022-11-17 14:50:50,347 INFO Stream # 12: E-10
+2022-11-17 14:50:50,581 INFO normalized prediction error: 0.07
+2022-11-17 14:50:51,448 INFO 3 anomalies found
+2022-11-17 14:50:51,448 INFO anomaly sequences start/end indices: [(1748, 1999), (5010, 5149), (5570, 5963)]
+2022-11-17 14:50:51,449 INFO number of test values: 8245
+2022-11-17 14:50:51,449 INFO anomaly scores: [{'start_idx': 1498, 'end_idx': 1749, 'score': 4.267897763156495}, {'start_idx': 4760, 'end_idx': 4829, 'score': 8.728884354887802}, {'start_idx': 4830, 'end_idx': 4899, 'score': 6.558826544922453}, {'start_idx': 5320, 'end_idx': 5389, 'score': 9.232652663514374}, {'start_idx': 5390, 'end_idx': 5459, 'score': 11.924391407555637}, {'start_idx': 5460, 'end_idx': 5529, 'score': 11.073004567341183}, {'start_idx': 5530, 'end_idx': 5599, 'score': 10.273295697139758}, {'start_idx': 5600, 'end_idx': 5669, 'score': 9.710254020428401}, {'start_idx': 5670, 'end_idx': 5713, 'score': 7.9720759553084175}]
+
+2022-11-17 14:50:51,457 INFO Stream # 13: E-11
+2022-11-17 14:50:51,697 INFO normalized prediction error: 0.08
+2022-11-17 14:50:52,572 INFO 3 anomalies found
+2022-11-17 14:50:52,573 INFO anomaly sequences start/end indices: [(1718, 2000), (5010, 5149), (5570, 5964)]
+2022-11-17 14:50:52,573 INFO number of test values: 8254
+2022-11-17 14:50:52,573 INFO anomaly scores: [{'start_idx': 1468, 'end_idx': 1750, 'score': 3.8528335048668203}, {'start_idx': 4760, 'end_idx': 4829, 'score': 6.862131298941512}, {'start_idx': 4830, 'end_idx': 4899, 'score': 5.276515643986218}, {'start_idx': 5320, 'end_idx': 5389, 'score': 8.138516582341207}, {'start_idx': 5390, 'end_idx': 5459, 'score': 11.610906656377898}, {'start_idx': 5460, 'end_idx': 5529, 'score': 10.92625980221012}, {'start_idx': 5530, 'end_idx': 5599, 'score': 10.172153544248562}, {'start_idx': 5600, 'end_idx': 5669, 'score': 9.505462626370019}, {'start_idx': 5670, 'end_idx': 5714, 'score': 7.905534490251679}]
+
+2022-11-17 14:50:52,586 INFO Stream # 14: E-12
+2022-11-17 14:50:52,919 INFO normalized prediction error: 0.06
+2022-11-17 14:50:53,591 INFO 5 anomalies found
+2022-11-17 14:50:53,591 INFO anomaly sequences start/end indices: [(1775, 2008), (5010, 5149), (5570, 5709), (5850, 5919), (5990, 6594)]
+2022-11-17 14:50:53,592 INFO number of test values: 8252
+2022-11-17 14:50:53,592 INFO anomaly scores: [{'start_idx': 1525, 'end_idx': 1758, 'score': 3.8077568434747}, {'start_idx': 4760, 'end_idx': 4829, 'score': 6.653533610565083}, {'start_idx': 4830, 'end_idx': 4899, 'score': 5.219644571361373}, {'start_idx': 5320, 'end_idx': 5389, 'score': 6.6914209834886424}, {'start_idx': 5390, 'end_idx': 5459, 'score': 6.015176596756865}, {'start_idx': 5600, 'end_idx': 5669, 'score': 5.847826225188652}, {'start_idx': 5740, 'end_idx': 5809, 'score': 5.918312746484314}, {'start_idx': 5810, 'end_idx': 5879, 'score': 6.26202893966356}, {'start_idx': 5880, 'end_idx': 5949, 'score': 6.725161093642827}, {'start_idx': 5950, 'end_idx': 6019, 'score': 6.254839565596303}, {'start_idx': 6020, 'end_idx': 6089, 'score': 6.381080504773971}, {'start_idx': 6090, 'end_idx': 6159, 'score': 6.576853895514065}, {'start_idx': 6160, 'end_idx': 6229, 'score': 6.717095405932797}, {'start_idx': 6230, 'end_idx': 6299, 'score': 6.415398742007353}, {'start_idx': 6300, 'end_idx': 6344, 'score': 5.747757675455116}]
+
+2022-11-17 14:50:53,601 INFO Stream # 15: E-13
+2022-11-17 14:50:54,480 INFO normalized prediction error: 0.06
+2022-11-17 14:50:55,201 INFO 2 anomalies found
+2022-11-17 14:50:55,201 INFO anomaly sequences start/end indices: [(5570, 5709), (6480, 6549)]
+2022-11-17 14:50:55,201 INFO number of test values: 8380
+2022-11-17 14:50:55,202 INFO anomaly scores: [{'start_idx': 5320, 'end_idx': 5389, 'score': 3.410681245910968}, {'start_idx': 5390, 'end_idx': 5459, 'score': 3.4675150232537755}, {'start_idx': 6230, 'end_idx': 6299, 'score': 3.75929917794407}]
+
+2022-11-17 14:50:55,211 INFO Stream # 16: A-1
+2022-11-17 14:50:55,556 INFO normalized prediction error: 0.01
+2022-11-17 14:50:56,373 INFO 1 anomalies found
+2022-11-17 14:50:56,374 INFO anomaly sequences start/end indices: [(4730, 4869)]
+2022-11-17 14:50:56,374 INFO number of test values: 8380
+2022-11-17 14:50:56,374 INFO anomaly scores: [{'start_idx': 4480, 'end_idx': 4549, 'score': 3.2014438937526872}, {'start_idx': 4550, 'end_idx': 4619, 'score': 2.6588575318785037}]
+
+2022-11-17 14:50:56,387 INFO Stream # 17: D-1
+2022-11-17 14:50:56,707 INFO normalized prediction error: 0.07
+2022-11-17 14:50:57,378 INFO 2 anomalies found
+2022-11-17 14:50:57,379 INFO anomaly sequences start/end indices: [(5220, 5359), (5570, 5919)]
+2022-11-17 14:50:57,379 INFO number of test values: 8249
+2022-11-17 14:50:57,379 INFO anomaly scores: [{'start_idx': 4970, 'end_idx': 5039, 'score': 2.1255602582585738}, {'start_idx': 5040, 'end_idx': 5109, 'score': 2.278115392864505}, {'start_idx': 5320, 'end_idx': 5389, 'score': 6.621386018137102}, {'start_idx': 5390, 'end_idx': 5459, 'score': 7.838672497351893}, {'start_idx': 5460, 'end_idx': 5529, 'score': 8.132053490068834}, {'start_idx': 5530, 'end_idx': 5599, 'score': 8.198180903761623}, {'start_idx': 5600, 'end_idx': 5669, 'score': 7.8904391287223605}]
+
+2022-11-17 14:50:57,388 INFO Stream # 18: P-2
+2022-11-17 14:51:02,055 INFO 82 channels found for processing.
+2022-11-17 14:51:02,057 INFO Stream # 1: P-1
+2022-11-17 14:51:02,561 INFO normalized prediction error: 0.09
+2022-11-17 14:51:03,331 INFO 4 anomalies found
+2022-11-17 14:51:03,331 INFO anomaly sequences start/end indices: [(2130, 2349), (3190, 3329), (3540, 3679), (4520, 4589)]
+2022-11-17 14:51:03,332 INFO number of test values: 8245
+2022-11-17 14:51:03,332 INFO anomaly scores: [{'start_idx': 1880, 'end_idx': 2099, 'score': 2.0284713472409055}, {'start_idx': 2940, 'end_idx': 3009, 'score': 2.1372898817915145}, {'start_idx': 3010, 'end_idx': 3079, 'score': 2.163556613516779}, {'start_idx': 3290, 'end_idx': 3359, 'score': 2.1331476542631735}, {'start_idx': 3360, 'end_idx': 3429, 'score': 2.2936228235904377}, {'start_idx': 4270, 'end_idx': 4339, 'score': 0.9175092986586291}]
+
+2022-11-17 14:51:03,341 INFO Stream # 2: S-1
+2022-11-17 14:51:03,643 INFO normalized prediction error: 0.19
+2022-11-17 14:51:04,352 INFO 1 anomalies found
+2022-11-17 14:51:04,353 INFO anomaly sequences start/end indices: [(5290, 5656)]
+2022-11-17 14:51:04,353 INFO number of test values: 7071
+2022-11-17 14:51:04,353 INFO anomaly scores: [{'start_idx': 5040, 'end_idx': 5109, 'score': 2.269975917220566}, {'start_idx': 5110, 'end_idx': 5179, 'score': 7.345765363462041}, {'start_idx': 5180, 'end_idx': 5249, 'score': 8.138666866285874}, {'start_idx': 5250, 'end_idx': 5319, 'score': 7.9385381199071166}, {'start_idx': 5320, 'end_idx': 5389, 'score': 7.038188502422944}, {'start_idx': 5390, 'end_idx': 5406, 'score': 6.185723200952486}]
+
+2022-11-17 14:51:04,361 INFO Stream # 3: E-1
+2022-11-19 11:09:30,490 INFO 82 channels found for processing.
+2022-11-19 11:09:30,491 INFO Stream # 1: P-1
+2022-11-19 11:09:30,732 INFO normalized prediction error: 0.09
+2022-11-19 11:09:31,364 INFO Channel Stats: TP: 3  FP: 1  FN: 0
+2022-11-19 11:09:31,365 INFO Total true positives: 3
+2022-11-19 11:09:31,366 INFO Total false positives: 1
+2022-11-19 11:09:31,366 INFO Total false negatives: 0
+
+2022-11-19 11:09:31,377 INFO Stream # 2: S-1
+2022-11-19 11:09:31,596 INFO normalized prediction error: 0.19
+2022-11-19 11:09:32,174 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:09:32,174 INFO Total true positives: 4
+2022-11-19 11:09:32,175 INFO Total false positives: 1
+2022-11-19 11:09:32,175 INFO Total false negatives: 0
+
+2022-11-19 11:09:32,181 INFO Stream # 3: E-1
+2022-11-19 11:09:32,449 INFO normalized prediction error: 0.07
+2022-11-19 11:09:33,553 INFO Channel Stats: TP: 2  FP: 1  FN: 0
+2022-11-19 11:09:33,553 INFO Total true positives: 6
+2022-11-19 11:09:33,553 INFO Total false positives: 2
+2022-11-19 11:09:33,554 INFO Total false negatives: 0
+
+2022-11-19 11:09:33,557 INFO Stream # 4: E-2
+2022-11-19 11:09:33,795 INFO normalized prediction error: 0.07
+2022-11-19 11:09:34,363 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:09:34,364 INFO Total true positives: 7
+2022-11-19 11:09:34,364 INFO Total false positives: 2
+2022-11-19 11:09:34,364 INFO Total false negatives: 0
+
+2022-11-19 11:09:34,368 INFO Stream # 5: E-3
+2022-11-19 11:09:34,614 INFO normalized prediction error: 0.02
+2022-11-19 11:09:35,222 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:09:35,222 INFO Total true positives: 8
+2022-11-19 11:09:35,222 INFO Total false positives: 2
+2022-11-19 11:09:35,222 INFO Total false negatives: 0
+
+2022-11-19 11:09:35,231 INFO Stream # 6: E-4
+2022-11-19 11:09:35,467 INFO normalized prediction error: 0.06
+2022-11-19 11:09:35,902 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:09:35,903 INFO Total true positives: 9
+2022-11-19 11:09:35,904 INFO Total false positives: 2
+2022-11-19 11:09:35,904 INFO Total false negatives: 0
+
+2022-11-19 11:09:35,912 INFO Stream # 7: E-5
+2022-11-19 11:09:36,142 INFO normalized prediction error: 0.08
+2022-11-19 11:09:36,570 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:09:36,571 INFO Total true positives: 10
+2022-11-19 11:09:36,571 INFO Total false positives: 2
+2022-11-19 11:09:36,572 INFO Total false negatives: 0
+
+2022-11-19 11:09:36,578 INFO Stream # 8: E-6
+2022-11-19 11:09:36,811 INFO normalized prediction error: 0.01
+2022-11-19 11:09:37,448 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:09:37,449 INFO Total true positives: 11
+2022-11-19 11:09:37,450 INFO Total false positives: 2
+2022-11-19 11:09:37,450 INFO Total false negatives: 0
+
+2022-11-19 11:09:37,457 INFO Stream # 9: E-7
+2022-11-19 11:09:37,685 INFO normalized prediction error: 0.03
+2022-11-19 11:09:38,332 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:09:38,333 INFO Total true positives: 12
+2022-11-19 11:09:38,334 INFO Total false positives: 2
+2022-11-19 11:09:38,335 INFO Total false negatives: 0
+
+2022-11-19 11:09:38,341 INFO Stream # 10: E-8
+2022-11-19 11:09:38,589 INFO normalized prediction error: 0.07
+2022-11-19 11:09:38,975 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:09:38,976 INFO Total true positives: 13
+2022-11-19 11:09:38,977 INFO Total false positives: 2
+2022-11-19 11:09:38,977 INFO Total false negatives: 0
+
+2022-11-19 11:09:38,984 INFO Stream # 11: E-9
+2022-11-19 11:09:39,222 INFO normalized prediction error: 0.05
+2022-11-19 11:09:39,606 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:09:39,607 INFO Total true positives: 14
+2022-11-19 11:09:39,607 INFO Total false positives: 2
+2022-11-19 11:09:39,608 INFO Total false negatives: 0
+
+2022-11-19 11:09:39,613 INFO Stream # 12: E-10
+2022-11-19 11:09:39,853 INFO normalized prediction error: 0.07
+2022-11-19 11:09:40,580 INFO Channel Stats: TP: 2  FP: 1  FN: 0
+2022-11-19 11:09:40,581 INFO Total true positives: 16
+2022-11-19 11:09:40,581 INFO Total false positives: 3
+2022-11-19 11:09:40,581 INFO Total false negatives: 0
+
+2022-11-19 11:09:40,590 INFO Stream # 13: E-11
+2022-11-19 11:09:40,844 INFO normalized prediction error: 0.08
+2022-11-19 11:09:41,514 INFO Channel Stats: TP: 2  FP: 1  FN: 0
+2022-11-19 11:09:41,515 INFO Total true positives: 18
+2022-11-19 11:09:41,515 INFO Total false positives: 4
+2022-11-19 11:09:41,516 INFO Total false negatives: 0
+
+2022-11-19 11:09:41,523 INFO Stream # 14: E-12
+2022-11-19 11:09:41,762 INFO normalized prediction error: 0.06
+2022-11-19 11:09:42,290 INFO Channel Stats: TP: 2  FP: 1  FN: 0
+2022-11-19 11:09:42,291 INFO Total true positives: 20
+2022-11-19 11:09:42,291 INFO Total false positives: 5
+2022-11-19 11:09:42,292 INFO Total false negatives: 0
+
+2022-11-19 11:09:42,301 INFO Stream # 15: E-13
+2022-11-19 11:09:42,556 INFO normalized prediction error: 0.06
+2022-11-19 11:09:43,075 INFO Channel Stats: TP: 2  FP: 0  FN: 1
+2022-11-19 11:09:43,076 INFO Total true positives: 22
+2022-11-19 11:09:43,077 INFO Total false positives: 5
+2022-11-19 11:09:43,077 INFO Total false negatives: 1
+
+2022-11-19 11:09:43,086 INFO Stream # 16: A-1
+2022-11-19 11:09:43,324 INFO normalized prediction error: 0.01
+2022-11-19 11:09:43,927 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:09:43,928 INFO Total true positives: 23
+2022-11-19 11:09:43,929 INFO Total false positives: 5
+2022-11-19 11:09:43,930 INFO Total false negatives: 1
+
+2022-11-19 11:09:43,938 INFO Stream # 17: D-1
+2022-11-19 11:09:44,191 INFO normalized prediction error: 0.07
+2022-11-19 11:09:44,702 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:09:44,703 INFO Total true positives: 24
+2022-11-19 11:09:44,703 INFO Total false positives: 5
+2022-11-19 11:09:44,704 INFO Total false negatives: 1
+
+2022-11-19 11:09:44,711 INFO Stream # 18: P-2
+2022-11-19 11:09:44,946 INFO normalized prediction error: 0.05
+2022-11-19 11:09:45,332 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:09:45,333 INFO Total true positives: 25
+2022-11-19 11:09:45,334 INFO Total false positives: 5
+2022-11-19 11:09:45,334 INFO Total false negatives: 1
+
+2022-11-19 11:09:45,343 INFO Stream # 19: P-3
+2022-11-19 11:09:45,584 INFO normalized prediction error: 0.04
+2022-11-19 11:09:46,028 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:09:46,029 INFO Total true positives: 26
+2022-11-19 11:09:46,030 INFO Total false positives: 5
+2022-11-19 11:09:46,030 INFO Total false negatives: 1
+
+2022-11-19 11:09:46,039 INFO Stream # 20: D-2
+2022-11-19 11:09:46,282 INFO normalized prediction error: 0.02
+2022-11-19 11:09:46,827 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:09:46,828 INFO Total true positives: 27
+2022-11-19 11:09:46,828 INFO Total false positives: 5
+2022-11-19 11:09:46,829 INFO Total false negatives: 1
+
+2022-11-19 11:09:46,836 INFO Stream # 21: D-3
+2022-11-19 11:09:47,081 INFO normalized prediction error: 0.06
+2022-11-19 11:09:47,481 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:09:47,483 INFO Total true positives: 28
+2022-11-19 11:09:47,483 INFO Total false positives: 5
+2022-11-19 11:09:47,484 INFO Total false negatives: 1
+
+2022-11-19 11:09:47,491 INFO Stream # 22: D-4
+2022-11-19 11:09:47,723 INFO normalized prediction error: 0.05
+2022-11-19 11:09:48,115 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:09:48,116 INFO Total true positives: 29
+2022-11-19 11:09:48,116 INFO Total false positives: 5
+2022-11-19 11:09:48,116 INFO Total false negatives: 1
+
+2022-11-19 11:09:48,124 INFO Stream # 23: A-2
+2022-11-19 11:09:48,362 INFO normalized prediction error: 0.07
+2022-11-19 11:09:48,954 INFO Channel Stats: TP: 1  FP: 2  FN: 0
+2022-11-19 11:09:48,954 INFO Total true positives: 30
+2022-11-19 11:09:48,955 INFO Total false positives: 7
+2022-11-19 11:09:48,955 INFO Total false negatives: 1
+
+2022-11-19 11:09:48,966 INFO Stream # 24: A-3
+2022-11-19 11:09:49,223 INFO normalized prediction error: 0.05
+2022-11-19 11:09:49,787 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:09:49,787 INFO Total true positives: 31
+2022-11-19 11:09:49,788 INFO Total false positives: 7
+2022-11-19 11:09:49,788 INFO Total false negatives: 1
+
+2022-11-19 11:09:49,798 INFO Stream # 25: A-4
+2022-11-19 11:09:50,035 INFO normalized prediction error: 0.06
+2022-11-19 11:09:50,640 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:09:50,641 INFO Total true positives: 32
+2022-11-19 11:09:50,642 INFO Total false positives: 7
+2022-11-19 11:09:50,642 INFO Total false negatives: 1
+
+2022-11-19 11:09:50,652 INFO Stream # 26: G-1
+2022-11-19 11:09:50,887 INFO normalized prediction error: 0.07
+2022-11-19 11:09:51,360 INFO Channel Stats: TP: 0  FP: 1  FN: 1
+2022-11-19 11:09:51,361 INFO Total true positives: 32
+2022-11-19 11:09:51,361 INFO Total false positives: 8
+2022-11-19 11:09:51,362 INFO Total false negatives: 2
+
+2022-11-19 11:09:51,371 INFO Stream # 27: G-2
+2022-11-19 11:09:51,582 INFO normalized prediction error: 0.01
+2022-11-19 11:09:52,038 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:09:52,039 INFO Total true positives: 33
+2022-11-19 11:09:52,039 INFO Total false positives: 8
+2022-11-19 11:09:52,040 INFO Total false negatives: 2
+
+2022-11-19 11:09:52,048 INFO Stream # 28: D-5
+2022-11-19 11:09:52,259 INFO normalized prediction error: 0.12
+2022-11-19 11:09:52,725 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:09:52,726 INFO Total true positives: 34
+2022-11-19 11:09:52,727 INFO Total false positives: 8
+2022-11-19 11:09:52,727 INFO Total false negatives: 2
+
+2022-11-19 11:09:52,736 INFO Stream # 29: D-6
+2022-11-19 11:09:52,967 INFO normalized prediction error: 0.05
+2022-11-19 11:09:53,503 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:09:53,504 INFO Total true positives: 35
+2022-11-19 11:09:53,505 INFO Total false positives: 8
+2022-11-19 11:09:53,505 INFO Total false negatives: 2
+
+2022-11-19 11:09:53,516 INFO Stream # 30: D-7
+2022-11-19 11:09:53,743 INFO normalized prediction error: 0.05
+2022-11-19 11:09:54,248 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:09:54,248 INFO Total true positives: 36
+2022-11-19 11:09:54,249 INFO Total false positives: 8
+2022-11-19 11:09:54,249 INFO Total false negatives: 2
+
+2022-11-19 11:09:54,259 INFO Stream # 31: F-1
+2022-11-19 11:09:54,521 INFO normalized prediction error: 0.10
+2022-11-19 11:09:55,122 INFO Channel Stats: TP: 0  FP: 1  FN: 1
+2022-11-19 11:09:55,123 INFO Total true positives: 36
+2022-11-19 11:09:55,123 INFO Total false positives: 9
+2022-11-19 11:09:55,123 INFO Total false negatives: 3
+
+2022-11-19 11:09:55,136 INFO Stream # 32: P-4
+2022-11-19 11:09:55,391 INFO normalized prediction error: 0.02
+2022-11-19 11:09:56,245 INFO Channel Stats: TP: 3  FP: 0  FN: 0
+2022-11-19 11:09:56,246 INFO Total true positives: 39
+2022-11-19 11:09:56,246 INFO Total false positives: 9
+2022-11-19 11:09:56,247 INFO Total false negatives: 3
+
+2022-11-19 11:09:56,257 INFO Stream # 33: G-3
+2022-11-19 11:09:56,484 INFO normalized prediction error: 0.01
+2022-11-19 11:09:57,178 INFO Channel Stats: TP: 1  FP: 1  FN: 0
+2022-11-19 11:09:57,179 INFO Total true positives: 40
+2022-11-19 11:09:57,180 INFO Total false positives: 10
+2022-11-19 11:09:57,180 INFO Total false negatives: 3
+
+2022-11-19 11:09:57,190 INFO Stream # 34: T-1
+2022-11-19 11:09:57,443 INFO normalized prediction error: 0.05
+2022-11-19 11:09:57,996 INFO Channel Stats: TP: 1  FP: 2  FN: 1
+2022-11-19 11:09:57,997 INFO Total true positives: 41
+2022-11-19 11:09:57,998 INFO Total false positives: 12
+2022-11-19 11:09:57,999 INFO Total false negatives: 4
+
+2022-11-19 11:09:58,010 INFO Stream # 35: T-2
+2022-11-19 11:09:58,262 INFO normalized prediction error: 0.04
+2022-11-19 11:09:58,734 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:09:58,735 INFO Total true positives: 42
+2022-11-19 11:09:58,735 INFO Total false positives: 12
+2022-11-19 11:09:58,736 INFO Total false negatives: 4
+
+2022-11-19 11:09:58,745 INFO Stream # 36: D-8
+2022-11-19 11:09:58,962 INFO normalized prediction error: 0.00
+2022-11-19 11:09:59,735 INFO Channel Stats: TP: 0  FP: 0  FN: 1
+2022-11-19 11:09:59,736 INFO Total true positives: 42
+2022-11-19 11:09:59,737 INFO Total false positives: 12
+2022-11-19 11:09:59,737 INFO Total false negatives: 5
+
+2022-11-19 11:09:59,745 INFO Stream # 37: D-9
+2022-11-19 11:09:59,963 INFO normalized prediction error: 0.02
+2022-11-19 11:10:39,396 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:10:39,397 INFO Total true positives: 43
+2022-11-19 11:10:39,398 INFO Total false positives: 12
+2022-11-19 11:10:39,398 INFO Total false negatives: 5
+
+2022-11-19 11:10:39,407 INFO Stream # 38: F-2
+2022-11-19 11:10:39,635 INFO normalized prediction error: 0.05
+2022-11-19 11:10:40,247 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:10:40,248 INFO Total true positives: 44
+2022-11-19 11:10:40,248 INFO Total false positives: 12
+2022-11-19 11:10:40,249 INFO Total false negatives: 5
+
+2022-11-19 11:10:40,256 INFO Stream # 39: G-4
+2022-11-19 11:10:40,471 INFO normalized prediction error: 0.01
+2022-11-19 11:10:40,964 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:10:40,965 INFO Total true positives: 45
+2022-11-19 11:10:40,966 INFO Total false positives: 12
+2022-11-19 11:10:40,966 INFO Total false negatives: 5
+
+2022-11-19 11:10:40,976 INFO Stream # 40: T-3
+2022-11-19 11:10:41,208 INFO normalized prediction error: 0.00
+2022-11-19 11:10:41,981 INFO Channel Stats: TP: 2  FP: 0  FN: 0
+2022-11-19 11:10:41,982 INFO Total true positives: 47
+2022-11-19 11:10:41,983 INFO Total false positives: 12
+2022-11-19 11:10:41,983 INFO Total false negatives: 5
+
+2022-11-19 11:10:41,990 INFO Stream # 41: D-11
+2022-11-19 11:10:42,211 INFO normalized prediction error: 0.01
+2022-11-19 11:10:42,599 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:10:42,600 INFO Total true positives: 48
+2022-11-19 11:10:42,601 INFO Total false positives: 12
+2022-11-19 11:10:42,601 INFO Total false negatives: 5
+
+2022-11-19 11:10:42,609 INFO Stream # 42: D-12
+2022-11-19 11:10:42,771 INFO normalized prediction error: 0.08
+2022-11-19 11:10:43,247 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:10:43,248 INFO Total true positives: 49
+2022-11-19 11:10:43,249 INFO Total false positives: 12
+2022-11-19 11:10:43,249 INFO Total false negatives: 5
+
+2022-11-19 11:10:43,258 INFO Stream # 43: B-1
+2022-11-19 11:10:43,488 INFO normalized prediction error: 0.04
+2022-11-19 11:10:44,144 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:10:44,144 INFO Total true positives: 50
+2022-11-19 11:10:44,145 INFO Total false positives: 12
+2022-11-19 11:10:44,146 INFO Total false negatives: 5
+
+2022-11-19 11:10:44,157 INFO Stream # 44: G-6
+2022-11-19 11:10:44,394 INFO normalized prediction error: 0.01
+2022-11-19 11:10:44,959 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:10:44,960 INFO Total true positives: 51
+2022-11-19 11:10:44,960 INFO Total false positives: 12
+2022-11-19 11:10:44,960 INFO Total false negatives: 5
+
+2022-11-19 11:10:44,969 INFO Stream # 45: G-7
+2022-11-19 11:10:45,194 INFO normalized prediction error: 0.03
+2022-11-19 11:10:45,953 INFO Channel Stats: TP: 3  FP: 0  FN: 0
+2022-11-19 11:10:45,954 INFO Total true positives: 54
+2022-11-19 11:10:45,954 INFO Total false positives: 12
+2022-11-19 11:10:45,954 INFO Total false negatives: 5
+
+2022-11-19 11:10:45,965 INFO Stream # 46: P-7
+2022-11-19 11:10:46,187 INFO normalized prediction error: 0.03
+2022-11-19 11:10:46,613 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:10:46,614 INFO Total true positives: 55
+2022-11-19 11:10:46,614 INFO Total false positives: 12
+2022-11-19 11:10:46,615 INFO Total false negatives: 5
+
+2022-11-19 11:10:46,623 INFO Stream # 47: R-1
+2022-11-19 11:10:46,842 INFO normalized prediction error: 0.01
+2022-11-19 11:10:47,500 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:10:47,501 INFO Total true positives: 56
+2022-11-19 11:10:47,501 INFO Total false positives: 12
+2022-11-19 11:10:47,502 INFO Total false negatives: 5
+
+2022-11-19 11:10:47,514 INFO Stream # 48: A-5
+2022-11-19 11:10:47,662 INFO normalized prediction error: 0.05
+2022-11-19 11:10:47,860 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:10:47,861 INFO Total true positives: 57
+2022-11-19 11:10:47,861 INFO Total false positives: 12
+2022-11-19 11:10:47,862 INFO Total false negatives: 5
+
+2022-11-19 11:10:47,871 INFO Stream # 49: A-6
+2022-11-19 11:10:47,994 INFO normalized prediction error: 0.01
+2022-11-19 11:10:48,341 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:10:48,342 INFO Total true positives: 58
+2022-11-19 11:10:48,342 INFO Total false positives: 12
+2022-11-19 11:10:48,343 INFO Total false negatives: 5
+
+2022-11-19 11:10:48,353 INFO Stream # 50: A-7
+2022-11-19 11:10:48,564 INFO normalized prediction error: 0.06
+2022-11-19 11:10:49,140 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:10:49,141 INFO Total true positives: 59
+2022-11-19 11:10:49,141 INFO Total false positives: 12
+2022-11-19 11:10:49,142 INFO Total false negatives: 5
+
+2022-11-19 11:10:49,154 INFO Stream # 51: D-13
+2022-11-19 11:10:49,342 INFO normalized prediction error: 0.02
+2022-11-19 11:10:50,043 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:10:50,044 INFO Total true positives: 60
+2022-11-19 11:10:50,045 INFO Total false positives: 12
+2022-11-19 11:10:50,045 INFO Total false negatives: 5
+
+2022-11-19 11:10:50,059 INFO Stream # 52: P-2
+2022-11-19 11:10:50,277 INFO normalized prediction error: 0.05
+2022-11-19 11:10:50,668 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:10:50,669 INFO Total true positives: 61
+2022-11-19 11:10:50,669 INFO Total false positives: 12
+2022-11-19 11:10:50,670 INFO Total false negatives: 5
+
+2022-11-19 11:10:50,679 INFO Stream # 53: A-8
+2022-11-19 11:10:50,855 INFO normalized prediction error: 0.10
+2022-11-19 11:10:51,281 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:10:51,283 INFO Total true positives: 62
+2022-11-19 11:10:51,283 INFO Total false positives: 12
+2022-11-19 11:10:51,284 INFO Total false negatives: 5
+
+2022-11-19 11:10:51,295 INFO Stream # 54: A-9
+2022-11-19 11:10:51,503 INFO normalized prediction error: 0.47
+2022-11-19 11:10:51,929 INFO Channel Stats: TP: 0  FP: 0  FN: 1
+2022-11-19 11:10:51,930 INFO Total true positives: 62
+2022-11-19 11:10:51,931 INFO Total false positives: 12
+2022-11-19 11:10:51,931 INFO Total false negatives: 6
+
+2022-11-19 11:10:51,943 INFO Stream # 55: F-3
+2022-11-19 11:10:52,185 INFO normalized prediction error: 0.01
+2022-11-19 11:10:52,572 INFO Channel Stats: TP: 0  FP: 0  FN: 1
+2022-11-19 11:10:52,573 INFO Total true positives: 62
+2022-11-19 11:10:52,573 INFO Total false positives: 12
+2022-11-19 11:10:52,574 INFO Total false negatives: 7
+
+2022-11-19 11:10:52,582 INFO Stream # 56: M-6
+2022-11-19 11:10:52,766 INFO normalized prediction error: 0.05
+2022-11-19 11:10:52,781 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:10:52,782 INFO Total true positives: 63
+2022-11-19 11:10:52,783 INFO Total false positives: 12
+2022-11-19 11:10:52,784 INFO Total false negatives: 7
+
+2022-11-19 11:10:52,793 INFO Stream # 57: M-1
+2022-11-19 11:10:53,009 INFO normalized prediction error: 0.06
+2022-11-19 11:10:53,016 INFO Channel Stats: TP: 0  FP: 0  FN: 1
+2022-11-19 11:10:53,016 INFO Total true positives: 63
+2022-11-19 11:10:53,017 INFO Total false positives: 12
+2022-11-19 11:10:53,019 INFO Total false negatives: 8
+
+2022-11-19 11:10:53,038 INFO Stream # 58: M-2
+2022-11-19 11:10:53,260 INFO normalized prediction error: 0.10
+2022-11-19 11:10:53,265 INFO Channel Stats: TP: 0  FP: 0  FN: 1
+2022-11-19 11:10:53,266 INFO Total true positives: 63
+2022-11-19 11:10:53,267 INFO Total false positives: 12
+2022-11-19 11:10:53,268 INFO Total false negatives: 9
+
+2022-11-19 11:10:53,288 INFO Stream # 59: S-2
+2022-11-19 11:10:53,438 INFO normalized prediction error: 0.01
+2022-11-19 11:10:53,453 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:10:53,455 INFO Total true positives: 64
+2022-11-19 11:10:53,456 INFO Total false positives: 12
+2022-11-19 11:10:53,458 INFO Total false negatives: 9
+
+2022-11-19 11:10:53,467 INFO Stream # 60: P-10
+2022-11-19 11:10:53,902 INFO normalized prediction error: 0.06
+2022-11-19 11:10:54,308 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:10:54,309 INFO Total true positives: 65
+2022-11-19 11:10:54,309 INFO Total false positives: 12
+2022-11-19 11:10:54,310 INFO Total false negatives: 9
+
+2022-11-19 11:10:54,320 INFO Stream # 61: T-4
+2022-11-19 11:10:54,649 INFO normalized prediction error: 0.10
+2022-11-19 11:10:54,660 INFO Channel Stats: TP: 0  FP: 0  FN: 1
+2022-11-19 11:10:54,662 INFO Total true positives: 65
+2022-11-19 11:10:54,663 INFO Total false positives: 12
+2022-11-19 11:10:54,664 INFO Total false negatives: 10
+
+2022-11-19 11:10:54,675 INFO Stream # 62: T-5
+2022-11-19 11:10:54,904 INFO normalized prediction error: 0.01
+2022-11-19 11:10:54,925 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:10:54,927 INFO Total true positives: 66
+2022-11-19 11:10:54,927 INFO Total false positives: 12
+2022-11-19 11:10:54,927 INFO Total false negatives: 10
+
+2022-11-19 11:10:54,936 INFO Stream # 63: F-7
+2022-11-19 11:10:55,237 INFO normalized prediction error: 0.17
+2022-11-19 11:10:55,455 INFO Channel Stats: TP: 2  FP: 1  FN: 1
+2022-11-19 11:10:55,456 INFO Total true positives: 68
+2022-11-19 11:10:55,457 INFO Total false positives: 13
+2022-11-19 11:10:55,457 INFO Total false negatives: 11
+
+2022-11-19 11:10:55,474 INFO Stream # 64: M-3
+2022-11-19 11:10:55,740 INFO normalized prediction error: 0.08
+2022-11-19 11:10:55,755 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:10:55,756 INFO Total true positives: 69
+2022-11-19 11:10:55,757 INFO Total false positives: 13
+2022-11-19 11:10:55,758 INFO Total false negatives: 11
+
+2022-11-19 11:10:55,770 INFO Stream # 65: M-4
+2022-11-19 11:10:55,983 INFO normalized prediction error: 0.12
+2022-11-19 11:10:55,995 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:10:55,996 INFO Total true positives: 70
+2022-11-19 11:10:55,997 INFO Total false positives: 13
+2022-11-19 11:10:55,998 INFO Total false negatives: 11
+
+2022-11-19 11:10:56,011 INFO Stream # 66: M-5
+2022-11-19 11:10:56,214 INFO normalized prediction error: 0.09
+2022-11-19 11:10:56,225 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:10:56,227 INFO Total true positives: 71
+2022-11-19 11:10:56,227 INFO Total false positives: 13
+2022-11-19 11:10:56,228 INFO Total false negatives: 11
+
+2022-11-19 11:10:56,239 INFO Stream # 67: P-15
+2022-11-19 11:10:56,554 INFO normalized prediction error: 0.02
+2022-11-19 11:10:56,677 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:10:56,678 INFO Total true positives: 72
+2022-11-19 11:10:56,679 INFO Total false positives: 13
+2022-11-19 11:10:56,679 INFO Total false negatives: 11
+
+2022-11-19 11:10:56,689 INFO Stream # 68: C-1
+2022-11-19 11:10:56,945 INFO normalized prediction error: 0.03
+2022-11-19 11:10:56,955 INFO Channel Stats: TP: 1  FP: 0  FN: 1
+2022-11-19 11:10:56,956 INFO Total true positives: 73
+2022-11-19 11:10:56,956 INFO Total false positives: 13
+2022-11-19 11:10:56,957 INFO Total false negatives: 12
+
+2022-11-19 11:10:56,968 INFO Stream # 69: C-2
+2022-11-19 11:10:57,101 INFO normalized prediction error: 0.11
+2022-11-19 11:10:57,112 INFO Channel Stats: TP: 1  FP: 0  FN: 1
+2022-11-19 11:10:57,113 INFO Total true positives: 74
+2022-11-19 11:10:57,115 INFO Total false positives: 13
+2022-11-19 11:10:57,115 INFO Total false negatives: 13
+
+2022-11-19 11:10:57,135 INFO Stream # 70: T-12
+2022-11-19 11:10:57,277 INFO normalized prediction error: 0.02
+2022-11-19 11:10:57,292 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:10:57,293 INFO Total true positives: 75
+2022-11-19 11:10:57,294 INFO Total false positives: 13
+2022-11-19 11:10:57,294 INFO Total false negatives: 13
+
+2022-11-19 11:10:57,301 INFO Stream # 71: T-13
+2022-11-19 11:10:57,477 INFO normalized prediction error: 0.03
+2022-11-19 11:10:57,487 INFO Channel Stats: TP: 0  FP: 0  FN: 2
+2022-11-19 11:10:57,487 INFO Total true positives: 75
+2022-11-19 11:10:57,488 INFO Total false positives: 13
+2022-11-19 11:10:57,488 INFO Total false negatives: 15
+
+2022-11-19 11:10:57,495 INFO Stream # 72: F-4
+2022-11-19 11:10:57,733 INFO normalized prediction error: 0.04
+2022-11-19 11:10:57,867 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:10:57,869 INFO Total true positives: 76
+2022-11-19 11:10:57,869 INFO Total false positives: 13
+2022-11-19 11:10:57,870 INFO Total false negatives: 15
+
+2022-11-19 11:10:57,881 INFO Stream # 73: F-5
+2022-11-19 11:10:58,352 INFO normalized prediction error: 0.02
+2022-11-19 11:10:58,676 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:10:58,677 INFO Total true positives: 77
+2022-11-19 11:10:58,677 INFO Total false positives: 13
+2022-11-19 11:10:58,677 INFO Total false negatives: 15
+
+2022-11-19 11:10:58,686 INFO Stream # 74: D-14
+2022-11-19 11:10:58,985 INFO normalized prediction error: 0.03
+2022-11-19 11:10:59,039 INFO Channel Stats: TP: 1  FP: 0  FN: 1
+2022-11-19 11:10:59,040 INFO Total true positives: 78
+2022-11-19 11:10:59,040 INFO Total false positives: 13
+2022-11-19 11:10:59,041 INFO Total false negatives: 16
+
+2022-11-19 11:10:59,091 INFO Stream # 75: T-9
+2022-11-19 11:10:59,218 INFO normalized prediction error: 0.16
+2022-11-19 11:10:59,222 INFO Channel Stats: TP: 0  FP: 0  FN: 2
+2022-11-19 11:10:59,222 INFO Total true positives: 78
+2022-11-19 11:10:59,223 INFO Total false positives: 13
+2022-11-19 11:10:59,223 INFO Total false negatives: 18
+
+2022-11-19 11:10:59,237 INFO Stream # 76: P-14
+2022-11-19 11:10:59,548 INFO normalized prediction error: 0.04
+2022-11-19 11:10:59,856 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:10:59,857 INFO Total true positives: 79
+2022-11-19 11:10:59,858 INFO Total false positives: 13
+2022-11-19 11:10:59,858 INFO Total false negatives: 18
+
+2022-11-19 11:10:59,869 INFO Stream # 77: T-8
+2022-11-19 11:11:00,056 INFO normalized prediction error: 0.04
+2022-11-19 11:11:00,073 INFO Channel Stats: TP: 2  FP: 0  FN: 0
+2022-11-19 11:11:00,075 INFO Total true positives: 81
+2022-11-19 11:11:00,076 INFO Total false positives: 13
+2022-11-19 11:11:00,076 INFO Total false negatives: 18
+
+2022-11-19 11:11:00,092 INFO Stream # 78: P-11
+2022-11-19 11:11:00,466 INFO normalized prediction error: 0.02
+2022-11-19 11:11:00,649 INFO Channel Stats: TP: 2  FP: 0  FN: 0
+2022-11-19 11:11:00,650 INFO Total true positives: 83
+2022-11-19 11:11:00,650 INFO Total false positives: 13
+2022-11-19 11:11:00,651 INFO Total false negatives: 18
+
+2022-11-19 11:11:00,661 INFO Stream # 79: D-15
+2022-11-19 11:11:00,965 INFO normalized prediction error: 0.15
+2022-11-19 11:11:00,975 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:11:00,976 INFO Total true positives: 84
+2022-11-19 11:11:00,978 INFO Total false positives: 13
+2022-11-19 11:11:00,980 INFO Total false negatives: 18
+
+2022-11-19 11:11:00,993 INFO Stream # 80: D-16
+2022-11-19 11:11:01,171 INFO normalized prediction error: 0.17
+2022-11-19 11:11:01,181 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:11:01,182 INFO Total true positives: 85
+2022-11-19 11:11:01,182 INFO Total false positives: 13
+2022-11-19 11:11:01,183 INFO Total false negatives: 18
+
+2022-11-19 11:11:01,195 INFO Stream # 81: M-7
+2022-11-19 11:11:01,432 INFO normalized prediction error: 0.02
+2022-11-19 11:11:01,452 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:11:01,454 INFO Total true positives: 86
+2022-11-19 11:11:01,454 INFO Total false positives: 13
+2022-11-19 11:11:01,455 INFO Total false negatives: 18
+
+2022-11-19 11:11:01,465 INFO Stream # 82: F-8
+2022-11-19 11:11:01,763 INFO normalized prediction error: 0.08
+2022-11-19 11:11:01,792 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2022-11-19 11:11:01,793 INFO Total true positives: 87
+2022-11-19 11:11:01,793 INFO Total false positives: 13
+2022-11-19 11:11:01,793 INFO Total false negatives: 18
+
+2022-11-19 11:11:01,808 INFO Final Totals:
+2022-11-19 11:11:01,808 INFO -----------------
+2022-11-19 11:11:01,809 INFO True Positives: 87
+2022-11-19 11:11:01,810 INFO False Positives: 13
+2022-11-19 11:11:01,810 INFO False Negatives: 18
+
+2022-11-19 11:11:01,811 INFO Precision: 0.87
+2022-11-19 11:11:01,813 INFO Recall: 0.83
